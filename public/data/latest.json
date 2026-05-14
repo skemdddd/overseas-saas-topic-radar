@@ -1,15 +1,15 @@
 {
-  "generatedAt": "2026-05-14T09:50:52.753Z",
-  "sourceCount": 4,
+  "generatedAt": "2026-05-14T12:41:00.426Z",
+  "sourceCount": 5,
   "itemCount": 80,
   "topItems": [
     {
-      "title": "yaassin12/DeepSeek-V4-Pro-App ★359",
+      "title": "yaassin12/DeepSeek-V4-Pro-App ★371",
       "url": "https://github.com/yaassin12/DeepSeek-V4-Pro-App",
       "source": "GitHub Trending Search",
       "summary": "DeepSeek V4 Pro: Advanced AI desktop app. Features: 1.6T MoE architecture, 1M token context window, Engram memory. Pro coding agent, Think Mode (High/Max), repo-level reasoning, complex bug fixing. Real-time web search, local API key storage, cross-file analysis, low-latency streaming interface.",
       "publishedAt": "2026-05-12T15:00:14Z",
-      "rawSignal": 30.450420006138298,
+      "rawSignal": 30.56434351905518,
       "id": "0843e880fa38",
       "score": 84,
       "scoreBreakdown": {
@@ -35,12 +35,12 @@
       "recommendation": "公众号深度文 + SaaS 机会评估"
     },
     {
-      "title": "StartupHakk/OpenMonoAgent.ai ★989",
+      "title": "StartupHakk/OpenMonoAgent.ai ★992",
       "url": "https://github.com/StartupHakk/OpenMonoAgent.ai",
       "source": "GitHub Trending Search",
       "summary": "(BETA) AI shouldn't have a meter. Unlimited tokens. Forever. Your machine. Your agent. Use it from anywhere. Terminal-native coding agent powered by local LLMs — 100% open source, free forever, and installed with a single command. Proudly built on C#/.NET, because AI tooling should be infrastructure, not a subscription.",
       "publishedAt": "2026-04-30T17:32:21Z",
-      "rawSignal": 33.9650815567804,
+      "rawSignal": 33.97559398796305,
       "id": "38bcf597b6f3",
       "score": 78,
       "scoreBreakdown": {
@@ -66,6 +66,36 @@
         "AI 编程提效实测"
       ],
       "recommendation": "公众号深度文 + SaaS 机会评估"
+    },
+    {
+      "title": "mikesheehan54/Claude-Code-Design-AI ★243",
+      "url": "https://github.com/mikesheehan54/Claude-Code-Design-AI",
+      "source": "GitHub Trending Search",
+      "summary": "Claude Design: AI UI/UX architect. Screenshot to React, Figma components, Tailwind CSS generator. Prototyping agent, design systems, wireframe renderer. SVG icon creator, dark mode toggle, responsive layout tool. Front-end code export, shadcn/ui integration, vector assets, branding assistant.",
+      "publishedAt": "2026-05-13T16:28:07Z",
+      "rawSignal": 29.099118610709837,
+      "id": "8af428aa2094",
+      "score": 74,
+      "scoreBreakdown": {
+        "signal": 25,
+        "relevance": 16,
+        "contentFit": 20,
+        "business": 4,
+        "recency": 9
+      },
+      "tags": [
+        "ai",
+        "agent",
+        "claude",
+        "tool",
+        "creator",
+        "design"
+      ],
+      "angles": [
+        "AI 工具/工作流拆解",
+        "小红书卡片：痛点-工具-结果"
+      ],
+      "recommendation": "小红书工具卡 + 实测教程"
     },
     {
       "title": "A 4-year-old auth-bypass vulnerability hidden in our password-reset API — discovery, hot fix, recovery",
@@ -99,12 +129,12 @@
       "recommendation": "公众号深度文 + SaaS 机会评估"
     },
     {
-      "title": "QuanZ827/zexus ★62",
+      "title": "QuanZ827/zexus ★63",
       "url": "https://github.com/QuanZ827/zexus",
       "source": "GitHub Trending Search",
       "summary": "In-process Revit AI agent with dynamic C# code execution, multi-provider LLM support, and a guardrail system for safe BIM automation.",
       "publishedAt": "2026-04-29T05:24:27Z",
-      "rawSignal": 24.394724395628653,
+      "rawSignal": 24.449439791871097,
       "id": "01690d195eea",
       "score": 70,
       "scoreBreakdown": {
@@ -155,15 +185,45 @@
         "海外 SaaS 产品机会",
         "小红书卡片：痛点-工具-结果"
       ],
-      "recommendation": "公众号深度文 + SaaS 机会评估"
+      "recommendation": "小红书工具卡 + 实测教程"
     },
     {
-      "title": "alvinunreal/openpets ★498",
+      "title": "wanghuan9/skill-manager ★48",
+      "url": "https://github.com/wanghuan9/skill-manager",
+      "source": "GitHub Trending Search",
+      "summary": "SkillDock 是一个桌面控制中心，用于管理 AI Skills 和 MCP servers，支持 Git-aware 更新，并同步到 Claude Code、Codex、Cursor、Windsurf、Gemini CLI、GitHub Copilot 等工具。 SkillDock is a desktop control center for managing AI Skills and MCP servers, with Git-aware updates and sync for Claude Code, Codex, Cursor, Windsurf, Gemini CLI, GitHub Copilot, and more.",
+      "publishedAt": "2026-05-13T08:37:42Z",
+      "rawSignal": 23.52156864022811,
+      "id": "f72c183ef398",
+      "score": 69,
+      "scoreBreakdown": {
+        "signal": 24,
+        "relevance": 18,
+        "contentFit": 14,
+        "business": 4,
+        "recency": 9
+      },
+      "tags": [
+        "ai",
+        "claude",
+        "gemini",
+        "copilot",
+        "mcp"
+      ],
+      "angles": [
+        "AI 工具/工作流拆解",
+        "MCP 生态应用清单",
+        "小红书卡片：痛点-工具-结果"
+      ],
+      "recommendation": "小红书工具卡 + 实测教程"
+    },
+    {
+      "title": "alvinunreal/openpets ★501",
       "url": "https://github.com/alvinunreal/openpets",
       "source": "GitHub Trending Search",
       "summary": "Desktop pets for AI coding agents. Install pets, connect Claude Code via MCP, and see live coding status on your desktop.",
       "publishedAt": "2026-05-04T19:14:46Z",
-      "rawSignal": 31.584804364987118,
+      "rawSignal": 31.605629737160154,
       "id": "c801f9301ccb",
       "score": 68,
       "scoreBreakdown": {
@@ -189,12 +249,12 @@
       "recommendation": "小红书工具卡 + 实测教程"
     },
     {
-      "title": "rohanmistry231/Claude-OS ★58",
+      "title": "rohanmistry231/Claude-OS ★60",
       "url": "https://github.com/rohanmistry231/Claude-OS",
       "source": "GitHub Trending Search",
       "summary": "A concise Claude reference bundle for developers, covering commands, MCP servers, plugins, tools, workflows, and agent frameworks in one place. Designed for fast discovery and practical integration.",
       "publishedAt": "2026-04-29T06:10:43Z",
-      "rawSignal": 24.166816093137154,
+      "rawSignal": 24.282638680086137,
       "id": "2ff0cae491cf",
       "score": 68,
       "scoreBreakdown": {
@@ -211,36 +271,6 @@
         "tool",
         "mcp",
         "design"
-      ],
-      "angles": [
-        "AI 工具/工作流拆解",
-        "MCP 生态应用清单",
-        "小红书卡片：痛点-工具-结果"
-      ],
-      "recommendation": "小红书工具卡 + 实测教程"
-    },
-    {
-      "title": "wanghuan9/skill-manager ★42",
-      "url": "https://github.com/wanghuan9/skill-manager",
-      "source": "GitHub Trending Search",
-      "summary": "SkillDock 是一个桌面控制中心，用于管理 AI Skills 和 MCP servers，支持 Git-aware 更新，并同步到 Claude Code、Codex、Cursor、Windsurf、Gemini CLI、GitHub Copilot 等工具。 SkillDock is a desktop control center for managing AI Skills and MCP servers, with Git-aware updates and sync for Claude Code, Codex, Cursor, Windsurf, Gemini CLI, GitHub Copilot, and more.",
-      "publishedAt": "2026-05-13T08:37:42Z",
-      "rawSignal": 23.067747644636693,
-      "id": "f72c183ef398",
-      "score": 68,
-      "scoreBreakdown": {
-        "signal": 23,
-        "relevance": 18,
-        "contentFit": 14,
-        "business": 4,
-        "recency": 9
-      },
-      "tags": [
-        "ai",
-        "claude",
-        "gemini",
-        "copilot",
-        "mcp"
       ],
       "angles": [
         "AI 工具/工作流拆解",
@@ -279,7 +309,7 @@
       "recommendation": "小红书工具卡 + 实测教程"
     },
     {
-      "title": "strukto-ai/mirage ★2186",
+      "title": "strukto-ai/mirage ★2206",
       "url": "https://github.com/strukto-ai/mirage",
       "source": "GitHub Trending Search",
       "summary": "A Unified Virtual Filesystem For AI Agents",
@@ -347,7 +377,7 @@
         "relevance": 11,
         "contentFit": 13,
         "business": 11,
-        "recency": 9
+        "recency": 8
       },
       "tags": [
         "ai",
@@ -364,12 +394,12 @@
       "recommendation": "独立开发案例库"
     },
     {
-      "title": "nduckmink/arkon ★699",
+      "title": "nduckmink/arkon ★701",
       "url": "https://github.com/nduckmink/arkon",
       "source": "GitHub Trending Search",
       "summary": "Arkon: Enterprise AI Knowledge Hub & MCP Server. Self-hosted knowledge base for teams to manage RAG contexts, access policies, and AI skills. Connect Claude and other LLMs via Model Context Protocol (MCP) for automated, secure organizational knowledge integration.",
       "publishedAt": "2026-04-30T15:11:39Z",
-      "rawSignal": 32.760784320114055,
+      "rawSignal": 32.77069689703844,
       "id": "8db4c0d6a381",
       "score": 63,
       "scoreBreakdown": {
@@ -394,12 +424,12 @@
       "recommendation": "快讯/素材池追踪"
     },
     {
-      "title": "FrankHui/paragents ★258",
+      "title": "FrankHui/paragents ★259",
       "url": "https://github.com/FrankHui/paragents",
       "source": "GitHub Trending Search",
       "summary": "Parallel ai-agent sessions in one panel, with permission-aware tools, preflight conflict checks.",
       "publishedAt": "2026-04-29T17:56:27Z",
-      "rawSignal": 29.306398112650015,
+      "rawSignal": 29.319786783766542,
       "id": "a1843868216a",
       "score": 62,
       "scoreBreakdown": {
@@ -422,12 +452,12 @@
       "recommendation": "快讯/素材池追踪"
     },
     {
-      "title": "yurineko73/Godot-MCP-Native ★66",
+      "title": "yurineko73/Godot-MCP-Native ★67",
       "url": "https://github.com/yurineko73/Godot-MCP-Native",
       "source": "GitHub Trending Search",
       "summary": "一款支持godot开源引擎的的mcp插件，支持常见godot引擎操作，使用Godot原生实现MCPServer，无需安装依赖，开箱即用，支持多种AI工具调用。An MCP plugin that supports the open-source Godot engine, enabling common Godot engine operations. It implements the MCP Server using Godot's native HTTP, requires no dependency installation, is ready to use out of the box, and supports invocation by various AI tools.",
       "publishedAt": "2026-05-04T02:50:15Z",
-      "rawSignal": 24.60859842160661,
+      "rawSignal": 24.660071301649893,
       "id": "68623997c1ee",
       "score": 62,
       "scoreBreakdown": {
@@ -512,30 +542,27 @@
       "recommendation": "快讯/素材池追踪"
     },
     {
-      "title": "entireio/pgr ★44",
-      "url": "https://github.com/entireio/pgr",
-      "source": "GitHub Trending Search",
-      "summary": "PGR is an experimental, stateless MCP code-search server for studying how ranking, latency, and output shaping affect agentic search.",
-      "publishedAt": "2026-05-02T00:03:07Z",
-      "rawSignal": 23.22570011020275,
-      "id": "884926b97bb2",
+      "title": "Lambda Just Got a File System. I Put AI Agents on It.",
+      "url": "https://dev.to/aws/lambda-just-got-a-file-system-i-put-ai-agents-on-it-1ej8",
+      "source": "Dev.to",
+      "summary": "You've written this code before. An S3 event fires, your Lambda function wakes up, and the first...",
+      "publishedAt": "2026-05-13T15:50:28Z",
+      "rawSignal": 24.4,
+      "id": "bc99c15c5685",
       "score": 62,
       "scoreBreakdown": {
-        "signal": 23,
-        "relevance": 12,
+        "signal": 24,
+        "relevance": 10,
         "contentFit": 14,
-        "business": 11,
-        "recency": 1
+        "business": 4,
+        "recency": 9
       },
       "tags": [
-        "agent",
-        "api",
-        "mcp"
+        "ai",
+        "agent"
       ],
       "angles": [
         "AI 工具/工作流拆解",
-        "海外 SaaS 产品机会",
-        "MCP 生态应用清单",
         "小红书卡片：痛点-工具-结果"
       ],
       "recommendation": "快讯/素材池追踪"
@@ -546,7 +573,7 @@
       "source": "Hacker News",
       "summary": "Show HN: Statewright – Visual state machines that make AI agents reliable",
       "publishedAt": "2026-05-12T14:24:55Z",
-      "rawSignal": 23.791666666666664,
+      "rawSignal": 24.208333333333336,
       "id": "1d1f603ddb94",
       "score": 61,
       "scoreBreakdown": {
@@ -596,6 +623,34 @@
       "recommendation": "快讯/素材池追踪"
     },
     {
+      "title": "TehreemArbab/JazzCashMCP ★62",
+      "url": "https://github.com/TehreemArbab/JazzCashMCP",
+      "source": "GitHub Trending Search",
+      "summary": "Open-source Model Context Protocol (MCP) server for JazzCash — Pakistan's largest mobile-money platform. Hosted Checkout, Mobile Wallet charges, inquiries, and refunds for AI agents.",
+      "publishedAt": "2026-05-09T13:24:27Z",
+      "rawSignal": 24.394724395628653,
+      "id": "b7d02a394a4c",
+      "score": 61,
+      "scoreBreakdown": {
+        "signal": 24,
+        "relevance": 12,
+        "contentFit": 14,
+        "business": 4,
+        "recency": 7
+      },
+      "tags": [
+        "ai",
+        "agent",
+        "mcp"
+      ],
+      "angles": [
+        "AI 工具/工作流拆解",
+        "MCP 生态应用清单",
+        "小红书卡片：痛点-工具-结果"
+      ],
+      "recommendation": "快讯/素材池追踪"
+    },
+    {
       "title": "kruschdev/krusch-context-mcp ★62",
       "url": "https://github.com/kruschdev/krusch-context-mcp",
       "source": "GitHub Trending Search",
@@ -624,28 +679,29 @@
       "recommendation": "快讯/素材池追踪"
     },
     {
-      "title": "TehreemArbab/JazzCashMCP ★61",
-      "url": "https://github.com/TehreemArbab/JazzCashMCP",
+      "title": "entireio/pgr ★44",
+      "url": "https://github.com/entireio/pgr",
       "source": "GitHub Trending Search",
-      "summary": "Open-source Model Context Protocol (MCP) server for JazzCash — Pakistan's largest mobile-money platform. Hosted Checkout, Mobile Wallet charges, inquiries, and refunds for AI agents.",
-      "publishedAt": "2026-05-09T13:24:27Z",
-      "rawSignal": 24.33913351598603,
-      "id": "b7d02a394a4c",
+      "summary": "PGR is an experimental, stateless MCP code-search server for studying how ranking, latency, and output shaping affect agentic search.",
+      "publishedAt": "2026-05-02T00:03:07Z",
+      "rawSignal": 23.22570011020275,
+      "id": "884926b97bb2",
       "score": 61,
       "scoreBreakdown": {
-        "signal": 24,
+        "signal": 23,
         "relevance": 12,
         "contentFit": 14,
-        "business": 4,
-        "recency": 7
+        "business": 11,
+        "recency": 1
       },
       "tags": [
-        "ai",
         "agent",
+        "api",
         "mcp"
       ],
       "angles": [
         "AI 工具/工作流拆解",
+        "海外 SaaS 产品机会",
         "MCP 生态应用清单",
         "小红书卡片：痛点-工具-结果"
       ],
@@ -679,32 +735,6 @@
       "recommendation": "快讯/素材池追踪"
     },
     {
-      "title": "Lambda Just Got a File System. I Put AI Agents on It.",
-      "url": "https://dev.to/aws/lambda-just-got-a-file-system-i-put-ai-agents-on-it-1ej8",
-      "source": "Dev.to",
-      "summary": "You've written this code before. An S3 event fires, your Lambda function wakes up, and the first...",
-      "publishedAt": "2026-05-13T15:50:28Z",
-      "rawSignal": 23.2,
-      "id": "bc99c15c5685",
-      "score": 61,
-      "scoreBreakdown": {
-        "signal": 23,
-        "relevance": 10,
-        "contentFit": 14,
-        "business": 4,
-        "recency": 9
-      },
-      "tags": [
-        "ai",
-        "agent"
-      ],
-      "angles": [
-        "AI 工具/工作流拆解",
-        "小红书卡片：痛点-工具-结果"
-      ],
-      "recommendation": "快讯/素材池追踪"
-    },
-    {
       "title": "Engineering Agent Memory",
       "url": "https://dev.to/kenwalger/engineering-agent-memory-4a42",
       "source": "Dev.to",
@@ -723,33 +753,6 @@
       "tags": [
         "agent",
         "prompt"
-      ],
-      "angles": [
-        "AI 工具/工作流拆解",
-        "小红书卡片：痛点-工具-结果"
-      ],
-      "recommendation": "快讯/素材池追踪"
-    },
-    {
-      "title": "ComposioHQ/trustclaw ★575",
-      "url": "https://github.com/ComposioHQ/trustclaw",
-      "source": "GitHub Trending Search",
-      "summary": "A self-hostable personal AI agent with vector memory, Composio tools, and Telegram.",
-      "publishedAt": "2026-05-05T03:33:19Z",
-      "rawSignal": 32.083379867385695,
-      "id": "623e8c51f832",
-      "score": 60,
-      "scoreBreakdown": {
-        "signal": 25,
-        "relevance": 10,
-        "contentFit": 17,
-        "business": 4,
-        "recency": 4
-      },
-      "tags": [
-        "ai",
-        "agent",
-        "tool"
       ],
       "angles": [
         "AI 工具/工作流拆解",
@@ -813,43 +816,12 @@
       "recommendation": "独立开发案例库"
     },
     {
-      "title": "Browser made for AI coding agents – playwright or pencil.dev alternative [video]",
-      "url": "https://www.youtube.com/watch?v=ERgRJaWSrKE",
-      "source": "Hacker News",
-      "summary": "Browser made for AI coding agents – playwright or pencil.dev alternative [video]",
-      "publishedAt": "2026-05-11T16:51:23Z",
-      "rawSignal": 8.416666666666666,
-      "id": "201c0f0a697e",
-      "score": 59,
-      "scoreBreakdown": {
-        "signal": 8,
-        "relevance": 24,
-        "contentFit": 14,
-        "business": 4,
-        "recency": 8
-      },
-      "tags": [
-        "ai",
-        "agent",
-        "video",
-        "coding",
-        "browser"
-      ],
-      "angles": [
-        "AI 工具/工作流拆解",
-        "AI 编程提效实测",
-        "浏览器 Agent 场景",
-        "小红书卡片：痛点-工具-结果"
-      ],
-      "recommendation": "快讯/素材池追踪"
-    },
-    {
-      "title": "sandeco/reversa ★774",
+      "title": "sandeco/reversa ★775",
       "url": "https://github.com/sandeco/reversa",
       "source": "GitHub Trending Search",
       "summary": "Transform legacy systems into executable specifications for AI coding agents",
       "publishedAt": "2026-04-26T13:47:10Z",
-      "rawSignal": 33.114413620050485,
+      "rawSignal": 33.11889377006551,
       "id": "29403852e75b",
       "score": 59,
       "scoreBreakdown": {
@@ -870,17 +842,44 @@
         "小红书卡片：痛点-工具-结果"
       ],
       "recommendation": "快讯/素材池追踪"
+    },
+    {
+      "title": "ComposioHQ/trustclaw ★585",
+      "url": "https://github.com/ComposioHQ/trustclaw",
+      "source": "GitHub Trending Search",
+      "summary": "A self-hostable personal AI agent with vector memory, Composio tools, and Telegram.",
+      "publishedAt": "2026-05-05T03:33:19Z",
+      "rawSignal": 32.14318092814473,
+      "id": "623e8c51f832",
+      "score": 59,
+      "scoreBreakdown": {
+        "signal": 25,
+        "relevance": 10,
+        "contentFit": 17,
+        "business": 4,
+        "recency": 3
+      },
+      "tags": [
+        "ai",
+        "agent",
+        "tool"
+      ],
+      "angles": [
+        "AI 工具/工作流拆解",
+        "小红书卡片：痛点-工具-结果"
+      ],
+      "recommendation": "快讯/素材池追踪"
     }
   ],
   "byAction": {
     "公众号深度文 + SaaS 机会评估": [
       {
-        "title": "yaassin12/DeepSeek-V4-Pro-App ★359",
+        "title": "yaassin12/DeepSeek-V4-Pro-App ★371",
         "url": "https://github.com/yaassin12/DeepSeek-V4-Pro-App",
         "source": "GitHub Trending Search",
         "summary": "DeepSeek V4 Pro: Advanced AI desktop app. Features: 1.6T MoE architecture, 1M token context window, Engram memory. Pro coding agent, Think Mode (High/Max), repo-level reasoning, complex bug fixing. Real-time web search, local API key storage, cross-file analysis, low-latency streaming interface.",
         "publishedAt": "2026-05-12T15:00:14Z",
-        "rawSignal": 30.450420006138298,
+        "rawSignal": 30.56434351905518,
         "id": "0843e880fa38",
         "score": 84,
         "scoreBreakdown": {
@@ -906,12 +905,12 @@
         "recommendation": "公众号深度文 + SaaS 机会评估"
       },
       {
-        "title": "StartupHakk/OpenMonoAgent.ai ★989",
+        "title": "StartupHakk/OpenMonoAgent.ai ★992",
         "url": "https://github.com/StartupHakk/OpenMonoAgent.ai",
         "source": "GitHub Trending Search",
         "summary": "(BETA) AI shouldn't have a meter. Unlimited tokens. Forever. Your machine. Your agent. Use it from anywhere. Terminal-native coding agent powered by local LLMs — 100% open source, free forever, and installed with a single command. Proudly built on C#/.NET, because AI tooling should be infrastructure, not a subscription.",
         "publishedAt": "2026-04-30T17:32:21Z",
-        "rawSignal": 33.9650815567804,
+        "rawSignal": 33.97559398796305,
         "id": "38bcf597b6f3",
         "score": 78,
         "scoreBreakdown": {
@@ -970,12 +969,12 @@
         "recommendation": "公众号深度文 + SaaS 机会评估"
       },
       {
-        "title": "QuanZ827/zexus ★62",
+        "title": "QuanZ827/zexus ★63",
         "url": "https://github.com/QuanZ827/zexus",
         "source": "GitHub Trending Search",
         "summary": "In-process Revit AI agent with dynamic C# code execution, multi-provider LLM support, and a guardrail system for safe BIM automation.",
         "publishedAt": "2026-04-29T05:24:27Z",
-        "rawSignal": 24.394724395628653,
+        "rawSignal": 24.449439791871097,
         "id": "01690d195eea",
         "score": 70,
         "scoreBreakdown": {
@@ -998,6 +997,38 @@
           "小红书卡片：痛点-工具-结果"
         ],
         "recommendation": "公众号深度文 + SaaS 机会评估"
+      }
+    ],
+    "小红书工具卡 + 实测教程": [
+      {
+        "title": "mikesheehan54/Claude-Code-Design-AI ★243",
+        "url": "https://github.com/mikesheehan54/Claude-Code-Design-AI",
+        "source": "GitHub Trending Search",
+        "summary": "Claude Design: AI UI/UX architect. Screenshot to React, Figma components, Tailwind CSS generator. Prototyping agent, design systems, wireframe renderer. SVG icon creator, dark mode toggle, responsive layout tool. Front-end code export, shadcn/ui integration, vector assets, branding assistant.",
+        "publishedAt": "2026-05-13T16:28:07Z",
+        "rawSignal": 29.099118610709837,
+        "id": "8af428aa2094",
+        "score": 74,
+        "scoreBreakdown": {
+          "signal": 25,
+          "relevance": 16,
+          "contentFit": 20,
+          "business": 4,
+          "recency": 9
+        },
+        "tags": [
+          "ai",
+          "agent",
+          "claude",
+          "tool",
+          "creator",
+          "design"
+        ],
+        "angles": [
+          "AI 工具/工作流拆解",
+          "小红书卡片：痛点-工具-结果"
+        ],
+        "recommendation": "小红书工具卡 + 实测教程"
       },
       {
         "title": "linora-u/AgentLoom ★30",
@@ -1026,17 +1057,45 @@
           "海外 SaaS 产品机会",
           "小红书卡片：痛点-工具-结果"
         ],
-        "recommendation": "公众号深度文 + SaaS 机会评估"
-      }
-    ],
-    "小红书工具卡 + 实测教程": [
+        "recommendation": "小红书工具卡 + 实测教程"
+      },
       {
-        "title": "alvinunreal/openpets ★498",
+        "title": "wanghuan9/skill-manager ★48",
+        "url": "https://github.com/wanghuan9/skill-manager",
+        "source": "GitHub Trending Search",
+        "summary": "SkillDock 是一个桌面控制中心，用于管理 AI Skills 和 MCP servers，支持 Git-aware 更新，并同步到 Claude Code、Codex、Cursor、Windsurf、Gemini CLI、GitHub Copilot 等工具。 SkillDock is a desktop control center for managing AI Skills and MCP servers, with Git-aware updates and sync for Claude Code, Codex, Cursor, Windsurf, Gemini CLI, GitHub Copilot, and more.",
+        "publishedAt": "2026-05-13T08:37:42Z",
+        "rawSignal": 23.52156864022811,
+        "id": "f72c183ef398",
+        "score": 69,
+        "scoreBreakdown": {
+          "signal": 24,
+          "relevance": 18,
+          "contentFit": 14,
+          "business": 4,
+          "recency": 9
+        },
+        "tags": [
+          "ai",
+          "claude",
+          "gemini",
+          "copilot",
+          "mcp"
+        ],
+        "angles": [
+          "AI 工具/工作流拆解",
+          "MCP 生态应用清单",
+          "小红书卡片：痛点-工具-结果"
+        ],
+        "recommendation": "小红书工具卡 + 实测教程"
+      },
+      {
+        "title": "alvinunreal/openpets ★501",
         "url": "https://github.com/alvinunreal/openpets",
         "source": "GitHub Trending Search",
         "summary": "Desktop pets for AI coding agents. Install pets, connect Claude Code via MCP, and see live coding status on your desktop.",
         "publishedAt": "2026-05-04T19:14:46Z",
-        "rawSignal": 31.584804364987118,
+        "rawSignal": 31.605629737160154,
         "id": "c801f9301ccb",
         "score": 68,
         "scoreBreakdown": {
@@ -1062,12 +1121,12 @@
         "recommendation": "小红书工具卡 + 实测教程"
       },
       {
-        "title": "rohanmistry231/Claude-OS ★58",
+        "title": "rohanmistry231/Claude-OS ★60",
         "url": "https://github.com/rohanmistry231/Claude-OS",
         "source": "GitHub Trending Search",
         "summary": "A concise Claude reference bundle for developers, covering commands, MCP servers, plugins, tools, workflows, and agent frameworks in one place. Designed for fast discovery and practical integration.",
         "publishedAt": "2026-04-29T06:10:43Z",
-        "rawSignal": 24.166816093137154,
+        "rawSignal": 24.282638680086137,
         "id": "2ff0cae491cf",
         "score": 68,
         "scoreBreakdown": {
@@ -1084,36 +1143,6 @@
           "tool",
           "mcp",
           "design"
-        ],
-        "angles": [
-          "AI 工具/工作流拆解",
-          "MCP 生态应用清单",
-          "小红书卡片：痛点-工具-结果"
-        ],
-        "recommendation": "小红书工具卡 + 实测教程"
-      },
-      {
-        "title": "wanghuan9/skill-manager ★42",
-        "url": "https://github.com/wanghuan9/skill-manager",
-        "source": "GitHub Trending Search",
-        "summary": "SkillDock 是一个桌面控制中心，用于管理 AI Skills 和 MCP servers，支持 Git-aware 更新，并同步到 Claude Code、Codex、Cursor、Windsurf、Gemini CLI、GitHub Copilot 等工具。 SkillDock is a desktop control center for managing AI Skills and MCP servers, with Git-aware updates and sync for Claude Code, Codex, Cursor, Windsurf, Gemini CLI, GitHub Copilot, and more.",
-        "publishedAt": "2026-05-13T08:37:42Z",
-        "rawSignal": 23.067747644636693,
-        "id": "f72c183ef398",
-        "score": 68,
-        "scoreBreakdown": {
-          "signal": 23,
-          "relevance": 18,
-          "contentFit": 14,
-          "business": 4,
-          "recency": 9
-        },
-        "tags": [
-          "ai",
-          "claude",
-          "gemini",
-          "copilot",
-          "mcp"
         ],
         "angles": [
           "AI 工具/工作流拆解",
@@ -1154,7 +1183,7 @@
     ],
     "快讯/素材池追踪": [
       {
-        "title": "strukto-ai/mirage ★2186",
+        "title": "strukto-ai/mirage ★2206",
         "url": "https://github.com/strukto-ai/mirage",
         "source": "GitHub Trending Search",
         "summary": "A Unified Virtual Filesystem For AI Agents",
@@ -1209,12 +1238,12 @@
         "recommendation": "快讯/素材池追踪"
       },
       {
-        "title": "nduckmink/arkon ★699",
+        "title": "nduckmink/arkon ★701",
         "url": "https://github.com/nduckmink/arkon",
         "source": "GitHub Trending Search",
         "summary": "Arkon: Enterprise AI Knowledge Hub & MCP Server. Self-hosted knowledge base for teams to manage RAG contexts, access policies, and AI skills. Connect Claude and other LLMs via Model Context Protocol (MCP) for automated, secure organizational knowledge integration.",
         "publishedAt": "2026-04-30T15:11:39Z",
-        "rawSignal": 32.760784320114055,
+        "rawSignal": 32.77069689703844,
         "id": "8db4c0d6a381",
         "score": 63,
         "scoreBreakdown": {
@@ -1239,12 +1268,12 @@
         "recommendation": "快讯/素材池追踪"
       },
       {
-        "title": "FrankHui/paragents ★258",
+        "title": "FrankHui/paragents ★259",
         "url": "https://github.com/FrankHui/paragents",
         "source": "GitHub Trending Search",
         "summary": "Parallel ai-agent sessions in one panel, with permission-aware tools, preflight conflict checks.",
         "publishedAt": "2026-04-29T17:56:27Z",
-        "rawSignal": 29.306398112650015,
+        "rawSignal": 29.319786783766542,
         "id": "a1843868216a",
         "score": 62,
         "scoreBreakdown": {
@@ -1267,12 +1296,12 @@
         "recommendation": "快讯/素材池追踪"
       },
       {
-        "title": "yurineko73/Godot-MCP-Native ★66",
+        "title": "yurineko73/Godot-MCP-Native ★67",
         "url": "https://github.com/yurineko73/Godot-MCP-Native",
         "source": "GitHub Trending Search",
         "summary": "一款支持godot开源引擎的的mcp插件，支持常见godot引擎操作，使用Godot原生实现MCPServer，无需安装依赖，开箱即用，支持多种AI工具调用。An MCP plugin that supports the open-source Godot engine, enabling common Godot engine operations. It implements the MCP Server using Godot's native HTTP, requires no dependency installation, is ready to use out of the box, and supports invocation by various AI tools.",
         "publishedAt": "2026-05-04T02:50:15Z",
-        "rawSignal": 24.60859842160661,
+        "rawSignal": 24.660071301649893,
         "id": "68623997c1ee",
         "score": 62,
         "scoreBreakdown": {
@@ -1357,30 +1386,27 @@
         "recommendation": "快讯/素材池追踪"
       },
       {
-        "title": "entireio/pgr ★44",
-        "url": "https://github.com/entireio/pgr",
-        "source": "GitHub Trending Search",
-        "summary": "PGR is an experimental, stateless MCP code-search server for studying how ranking, latency, and output shaping affect agentic search.",
-        "publishedAt": "2026-05-02T00:03:07Z",
-        "rawSignal": 23.22570011020275,
-        "id": "884926b97bb2",
+        "title": "Lambda Just Got a File System. I Put AI Agents on It.",
+        "url": "https://dev.to/aws/lambda-just-got-a-file-system-i-put-ai-agents-on-it-1ej8",
+        "source": "Dev.to",
+        "summary": "You've written this code before. An S3 event fires, your Lambda function wakes up, and the first...",
+        "publishedAt": "2026-05-13T15:50:28Z",
+        "rawSignal": 24.4,
+        "id": "bc99c15c5685",
         "score": 62,
         "scoreBreakdown": {
-          "signal": 23,
-          "relevance": 12,
+          "signal": 24,
+          "relevance": 10,
           "contentFit": 14,
-          "business": 11,
-          "recency": 1
+          "business": 4,
+          "recency": 9
         },
         "tags": [
-          "agent",
-          "api",
-          "mcp"
+          "ai",
+          "agent"
         ],
         "angles": [
           "AI 工具/工作流拆解",
-          "海外 SaaS 产品机会",
-          "MCP 生态应用清单",
           "小红书卡片：痛点-工具-结果"
         ],
         "recommendation": "快讯/素材池追踪"
@@ -1391,7 +1417,7 @@
         "source": "Hacker News",
         "summary": "Show HN: Statewright – Visual state machines that make AI agents reliable",
         "publishedAt": "2026-05-12T14:24:55Z",
-        "rawSignal": 23.791666666666664,
+        "rawSignal": 24.208333333333336,
         "id": "1d1f603ddb94",
         "score": 61,
         "scoreBreakdown": {
@@ -1441,6 +1467,34 @@
         "recommendation": "快讯/素材池追踪"
       },
       {
+        "title": "TehreemArbab/JazzCashMCP ★62",
+        "url": "https://github.com/TehreemArbab/JazzCashMCP",
+        "source": "GitHub Trending Search",
+        "summary": "Open-source Model Context Protocol (MCP) server for JazzCash — Pakistan's largest mobile-money platform. Hosted Checkout, Mobile Wallet charges, inquiries, and refunds for AI agents.",
+        "publishedAt": "2026-05-09T13:24:27Z",
+        "rawSignal": 24.394724395628653,
+        "id": "b7d02a394a4c",
+        "score": 61,
+        "scoreBreakdown": {
+          "signal": 24,
+          "relevance": 12,
+          "contentFit": 14,
+          "business": 4,
+          "recency": 7
+        },
+        "tags": [
+          "ai",
+          "agent",
+          "mcp"
+        ],
+        "angles": [
+          "AI 工具/工作流拆解",
+          "MCP 生态应用清单",
+          "小红书卡片：痛点-工具-结果"
+        ],
+        "recommendation": "快讯/素材池追踪"
+      },
+      {
         "title": "kruschdev/krusch-context-mcp ★62",
         "url": "https://github.com/kruschdev/krusch-context-mcp",
         "source": "GitHub Trending Search",
@@ -1469,28 +1523,29 @@
         "recommendation": "快讯/素材池追踪"
       },
       {
-        "title": "TehreemArbab/JazzCashMCP ★61",
-        "url": "https://github.com/TehreemArbab/JazzCashMCP",
+        "title": "entireio/pgr ★44",
+        "url": "https://github.com/entireio/pgr",
         "source": "GitHub Trending Search",
-        "summary": "Open-source Model Context Protocol (MCP) server for JazzCash — Pakistan's largest mobile-money platform. Hosted Checkout, Mobile Wallet charges, inquiries, and refunds for AI agents.",
-        "publishedAt": "2026-05-09T13:24:27Z",
-        "rawSignal": 24.33913351598603,
-        "id": "b7d02a394a4c",
+        "summary": "PGR is an experimental, stateless MCP code-search server for studying how ranking, latency, and output shaping affect agentic search.",
+        "publishedAt": "2026-05-02T00:03:07Z",
+        "rawSignal": 23.22570011020275,
+        "id": "884926b97bb2",
         "score": 61,
         "scoreBreakdown": {
-          "signal": 24,
+          "signal": 23,
           "relevance": 12,
           "contentFit": 14,
-          "business": 4,
-          "recency": 7
+          "business": 11,
+          "recency": 1
         },
         "tags": [
-          "ai",
           "agent",
+          "api",
           "mcp"
         ],
         "angles": [
           "AI 工具/工作流拆解",
+          "海外 SaaS 产品机会",
           "MCP 生态应用清单",
           "小红书卡片：痛点-工具-结果"
         ],
@@ -1524,32 +1579,6 @@
         "recommendation": "快讯/素材池追踪"
       },
       {
-        "title": "Lambda Just Got a File System. I Put AI Agents on It.",
-        "url": "https://dev.to/aws/lambda-just-got-a-file-system-i-put-ai-agents-on-it-1ej8",
-        "source": "Dev.to",
-        "summary": "You've written this code before. An S3 event fires, your Lambda function wakes up, and the first...",
-        "publishedAt": "2026-05-13T15:50:28Z",
-        "rawSignal": 23.2,
-        "id": "bc99c15c5685",
-        "score": 61,
-        "scoreBreakdown": {
-          "signal": 23,
-          "relevance": 10,
-          "contentFit": 14,
-          "business": 4,
-          "recency": 9
-        },
-        "tags": [
-          "ai",
-          "agent"
-        ],
-        "angles": [
-          "AI 工具/工作流拆解",
-          "小红书卡片：痛点-工具-结果"
-        ],
-        "recommendation": "快讯/素材池追踪"
-      },
-      {
         "title": "Engineering Agent Memory",
         "url": "https://dev.to/kenwalger/engineering-agent-memory-4a42",
         "source": "Dev.to",
@@ -1568,33 +1597,6 @@
         "tags": [
           "agent",
           "prompt"
-        ],
-        "angles": [
-          "AI 工具/工作流拆解",
-          "小红书卡片：痛点-工具-结果"
-        ],
-        "recommendation": "快讯/素材池追踪"
-      },
-      {
-        "title": "ComposioHQ/trustclaw ★575",
-        "url": "https://github.com/ComposioHQ/trustclaw",
-        "source": "GitHub Trending Search",
-        "summary": "A self-hostable personal AI agent with vector memory, Composio tools, and Telegram.",
-        "publishedAt": "2026-05-05T03:33:19Z",
-        "rawSignal": 32.083379867385695,
-        "id": "623e8c51f832",
-        "score": 60,
-        "scoreBreakdown": {
-          "signal": 25,
-          "relevance": 10,
-          "contentFit": 17,
-          "business": 4,
-          "recency": 4
-        },
-        "tags": [
-          "ai",
-          "agent",
-          "tool"
         ],
         "angles": [
           "AI 工具/工作流拆解",
@@ -1630,6 +1632,142 @@
         "recommendation": "快讯/素材池追踪"
       },
       {
+        "title": "sandeco/reversa ★775",
+        "url": "https://github.com/sandeco/reversa",
+        "source": "GitHub Trending Search",
+        "summary": "Transform legacy systems into executable specifications for AI coding agents",
+        "publishedAt": "2026-04-26T13:47:10Z",
+        "rawSignal": 33.11889377006551,
+        "id": "29403852e75b",
+        "score": 59,
+        "scoreBreakdown": {
+          "signal": 25,
+          "relevance": 16,
+          "contentFit": 14,
+          "business": 4,
+          "recency": 0
+        },
+        "tags": [
+          "ai",
+          "agent",
+          "coding"
+        ],
+        "angles": [
+          "AI 工具/工作流拆解",
+          "AI 编程提效实测",
+          "小红书卡片：痛点-工具-结果"
+        ],
+        "recommendation": "快讯/素材池追踪"
+      },
+      {
+        "title": "ComposioHQ/trustclaw ★585",
+        "url": "https://github.com/ComposioHQ/trustclaw",
+        "source": "GitHub Trending Search",
+        "summary": "A self-hostable personal AI agent with vector memory, Composio tools, and Telegram.",
+        "publishedAt": "2026-05-05T03:33:19Z",
+        "rawSignal": 32.14318092814473,
+        "id": "623e8c51f832",
+        "score": 59,
+        "scoreBreakdown": {
+          "signal": 25,
+          "relevance": 10,
+          "contentFit": 17,
+          "business": 4,
+          "recency": 3
+        },
+        "tags": [
+          "ai",
+          "agent",
+          "tool"
+        ],
+        "angles": [
+          "AI 工具/工作流拆解",
+          "小红书卡片：痛点-工具-结果"
+        ],
+        "recommendation": "快讯/素材池追踪"
+      },
+      {
+        "title": "regent-vcs/re_gent ★471",
+        "url": "https://github.com/regent-vcs/re_gent",
+        "source": "GitHub Trending Search",
+        "summary": "Version-Control for AI coding agents.",
+        "publishedAt": "2026-04-30T09:09:41Z",
+        "rawSignal": 31.391535989072704,
+        "id": "868029f2875a",
+        "score": 59,
+        "scoreBreakdown": {
+          "signal": 25,
+          "relevance": 16,
+          "contentFit": 14,
+          "business": 4,
+          "recency": 0
+        },
+        "tags": [
+          "ai",
+          "agent",
+          "coding"
+        ],
+        "angles": [
+          "AI 工具/工作流拆解",
+          "AI 编程提效实测",
+          "小红书卡片：痛点-工具-结果"
+        ],
+        "recommendation": "快讯/素材池追踪"
+      },
+      {
+        "title": "AFK-surf/OpenBridge ★236",
+        "url": "https://github.com/AFK-surf/OpenBridge",
+        "source": "GitHub Trending Search",
+        "summary": "A free, safe and open agent for everything. Alternative to Claude Cowork & Codex. Open Bridge, the AI bridge bwtween your intention and get the job done.",
+        "publishedAt": "2026-05-02T18:01:54Z",
+        "rawSignal": 28.997986768080832,
+        "id": "342175b6d6a4",
+        "score": 59,
+        "scoreBreakdown": {
+          "signal": 25,
+          "relevance": 14,
+          "contentFit": 14,
+          "business": 4,
+          "recency": 2
+        },
+        "tags": [
+          "ai",
+          "agent",
+          "claude"
+        ],
+        "angles": [
+          "AI 工具/工作流拆解",
+          "小红书卡片：痛点-工具-结果"
+        ],
+        "recommendation": "快讯/素材池追踪"
+      },
+      {
+        "title": "Show HN: Agentic interface for mainframes and COBOL",
+        "url": "https://www.hypercubic.ai/hopper",
+        "source": "Hacker News",
+        "summary": "Show HN: Agentic interface for mainframes and COBOL",
+        "publishedAt": "2026-05-12T17:10:22Z",
+        "rawSignal": 21.375,
+        "id": "6b1b1548b13e",
+        "score": 58,
+        "scoreBreakdown": {
+          "signal": 21,
+          "relevance": 10,
+          "contentFit": 14,
+          "business": 4,
+          "recency": 9
+        },
+        "tags": [
+          "ai",
+          "agent"
+        ],
+        "angles": [
+          "AI 工具/工作流拆解",
+          "小红书卡片：痛点-工具-结果"
+        ],
+        "recommendation": "快讯/素材池追踪"
+      },
+      {
         "title": "Browser made for AI coding agents – playwright or pencil.dev alternative [video]",
         "url": "https://www.youtube.com/watch?v=ERgRJaWSrKE",
         "source": "Hacker News",
@@ -1637,7 +1775,7 @@
         "publishedAt": "2026-05-11T16:51:23Z",
         "rawSignal": 8.416666666666666,
         "id": "201c0f0a697e",
-        "score": 59,
+        "score": 58,
         "scoreBreakdown": {
           "signal": 8,
           "relevance": 24,
@@ -1661,147 +1799,12 @@
         "recommendation": "快讯/素材池追踪"
       },
       {
-        "title": "sandeco/reversa ★774",
-        "url": "https://github.com/sandeco/reversa",
-        "source": "GitHub Trending Search",
-        "summary": "Transform legacy systems into executable specifications for AI coding agents",
-        "publishedAt": "2026-04-26T13:47:10Z",
-        "rawSignal": 33.114413620050485,
-        "id": "29403852e75b",
-        "score": 59,
-        "scoreBreakdown": {
-          "signal": 25,
-          "relevance": 16,
-          "contentFit": 14,
-          "business": 4,
-          "recency": 0
-        },
-        "tags": [
-          "ai",
-          "agent",
-          "coding"
-        ],
-        "angles": [
-          "AI 工具/工作流拆解",
-          "AI 编程提效实测",
-          "小红书卡片：痛点-工具-结果"
-        ],
-        "recommendation": "快讯/素材池追踪"
-      },
-      {
-        "title": "regent-vcs/re_gent ★466",
-        "url": "https://github.com/regent-vcs/re_gent",
-        "source": "GitHub Trending Search",
-        "summary": "Version-Control for AI coding agents.",
-        "publishedAt": "2026-04-30T09:09:41Z",
-        "rawSignal": 31.354535044528898,
-        "id": "868029f2875a",
-        "score": 59,
-        "scoreBreakdown": {
-          "signal": 25,
-          "relevance": 16,
-          "contentFit": 14,
-          "business": 4,
-          "recency": 0
-        },
-        "tags": [
-          "ai",
-          "agent",
-          "coding"
-        ],
-        "angles": [
-          "AI 工具/工作流拆解",
-          "AI 编程提效实测",
-          "小红书卡片：痛点-工具-结果"
-        ],
-        "recommendation": "快讯/素材池追踪"
-      },
-      {
-        "title": "AFK-surf/OpenBridge ★227",
-        "url": "https://github.com/AFK-surf/OpenBridge",
-        "source": "GitHub Trending Search",
-        "summary": "A free, safe and open agent for everything. Alternative to Claude Cowork & Codex. Open Bridge, the AI bridge bwtween your intention and get the job done.",
-        "publishedAt": "2026-05-02T18:01:54Z",
-        "rawSignal": 28.86347877600363,
-        "id": "342175b6d6a4",
-        "score": 59,
-        "scoreBreakdown": {
-          "signal": 25,
-          "relevance": 14,
-          "contentFit": 14,
-          "business": 4,
-          "recency": 2
-        },
-        "tags": [
-          "ai",
-          "agent",
-          "claude"
-        ],
-        "angles": [
-          "AI 工具/工作流拆解",
-          "小红书卡片：痛点-工具-结果"
-        ],
-        "recommendation": "快讯/素材池追踪"
-      },
-      {
-        "title": "Show HN: adamsreview – better multi-agent PR reviews for Claude Code",
-        "url": "https://github.com/adamjgmiller/adamsreview",
-        "source": "Hacker News",
-        "summary": "Show HN: adamsreview – better multi-agent PR reviews for Claude Code",
-        "publishedAt": "2026-05-11T02:06:29Z",
-        "rawSignal": 21.875,
-        "id": "3a11e387d8ae",
-        "score": 58,
-        "scoreBreakdown": {
-          "signal": 22,
-          "relevance": 10,
-          "contentFit": 14,
-          "business": 4,
-          "recency": 8
-        },
-        "tags": [
-          "agent",
-          "claude"
-        ],
-        "angles": [
-          "AI 工具/工作流拆解",
-          "小红书卡片：痛点-工具-结果"
-        ],
-        "recommendation": "快讯/素材池追踪"
-      },
-      {
-        "title": "Show HN: Agentic interface for mainframes and COBOL",
-        "url": "https://www.hypercubic.ai/hopper",
-        "source": "Hacker News",
-        "summary": "Show HN: Agentic interface for mainframes and COBOL",
-        "publishedAt": "2026-05-12T17:10:22Z",
-        "rawSignal": 21.291666666666668,
-        "id": "6b1b1548b13e",
-        "score": 58,
-        "scoreBreakdown": {
-          "signal": 21,
-          "relevance": 10,
-          "contentFit": 14,
-          "business": 4,
-          "recency": 9
-        },
-        "tags": [
-          "ai",
-          "agent"
-        ],
-        "angles": [
-          "AI 工具/工作流拆解",
-          "小红书卡片：痛点-工具-结果"
-        ],
-        "recommendation": "快讯/素材池追踪"
-      },
-      {
-        "title": "opensquilla/opensquilla ★399",
+        "title": "opensquilla/opensquilla ★424",
         "url": "https://github.com/opensquilla/opensquilla",
         "source": "GitHub Trending Search",
         "summary": "OpenSquilla — Token-Efficient AI Agent with same budget, higher intelligence density",
         "publishedAt": "2026-05-06T17:43:05Z",
-        "rawSignal": 30.8164799306237,
+        "rawSignal": 31.027111440402493,
         "id": "3c683dcb8f36",
         "score": 58,
         "scoreBreakdown": {
@@ -1849,12 +1852,38 @@
         "recommendation": "快讯/素材池追踪"
       },
       {
-        "title": "darkrishabh/agent-skills-eval ★479",
+        "title": "Show HN: adamsreview – better multi-agent PR reviews for Claude Code",
+        "url": "https://github.com/adamjgmiller/adamsreview",
+        "source": "Hacker News",
+        "summary": "Show HN: adamsreview – better multi-agent PR reviews for Claude Code",
+        "publishedAt": "2026-05-11T02:06:29Z",
+        "rawSignal": 21.875,
+        "id": "3a11e387d8ae",
+        "score": 57,
+        "scoreBreakdown": {
+          "signal": 22,
+          "relevance": 10,
+          "contentFit": 14,
+          "business": 4,
+          "recency": 8
+        },
+        "tags": [
+          "agent",
+          "claude"
+        ],
+        "angles": [
+          "AI 工具/工作流拆解",
+          "小红书卡片：痛点-工具-结果"
+        ],
+        "recommendation": "快讯/素材池追踪"
+      },
+      {
+        "title": "darkrishabh/agent-skills-eval ★480",
         "url": "https://github.com/darkrishabh/agent-skills-eval",
         "source": "GitHub Trending Search",
         "summary": "A test runner for agentskills.io-style AI agent skills",
         "publishedAt": "2026-05-06T05:10:29Z",
-        "rawSignal": 31.449929899004697,
+        "rawSignal": 31.457160610990655,
         "id": "afea314d6cba",
         "score": 57,
         "scoreBreakdown": {
@@ -1904,12 +1933,12 @@
         "recommendation": "快讯/素材池追踪"
       },
       {
-        "title": "WenyuChiou/awesome-agentic-ai-zh ★1320",
+        "title": "WenyuChiou/awesome-agentic-ai-zh ★1326",
         "url": "https://github.com/WenyuChiou/awesome-agentic-ai-zh",
         "source": "GitHub Trending Search",
         "summary": "AI Agent 中文學習地圖 — 從零開始的結構化學習路徑，每階段有必做練習跟必修閱讀。三語對照（繁中／简中／English）。歡迎社群一起貢獻、優化內容。",
         "publishedAt": "2026-05-04T22:18:51Z",
-        "rawSignal": 34.96722254091622,
+        "rawSignal": 34.98296738291548,
         "id": "7d1ea1d6ba1a",
         "score": 56,
         "scoreBreakdown": {
@@ -1930,12 +1959,12 @@
         "recommendation": "快讯/素材池追踪"
       },
       {
-        "title": "prasenjeet-symon/ogcode ★101",
+        "title": "prasenjeet-symon/ogcode ★103",
         "url": "https://github.com/prasenjeet-symon/ogcode",
         "source": "GitHub Trending Search",
         "summary": "A web UI coding agent that handles the full development loop: understand your codebase, plan features collaboratively, spin up isolated branch agents, write the code, and ship PRs — all in parallel. Written in Go.",
         "publishedAt": "2026-05-01T10:24:31Z",
-        "rawSignal": 26.06880137409534,
+        "rawSignal": 26.136266714390242,
         "id": "3da26a3a77a7",
         "score": 56,
         "scoreBreakdown": {
@@ -2096,12 +2125,12 @@
         "recommendation": "快讯/素材池追踪"
       },
       {
-        "title": "anysearch-ai/anysearch-mcp-server ★138",
+        "title": "anysearch-ai/anysearch-mcp-server ★143",
         "url": "https://github.com/anysearch-ai/anysearch-mcp-server",
         "source": "GitHub Trending Search",
         "summary": "Unified real-time search engine skill for AI agents.",
         "publishedAt": "2026-04-30T02:55:53Z",
-        "rawSignal": 27.14411840203276,
+        "rawSignal": 27.266899936761998,
         "id": "9b40ae53ecc1",
         "score": 55,
         "scoreBreakdown": {
@@ -2139,7 +2168,7 @@
           "relevance": 11,
           "contentFit": 13,
           "business": 11,
-          "recency": 9
+          "recency": 8
         },
         "tags": [
           "ai",
@@ -2175,33 +2204,6 @@
           "ai",
           "agent",
           "launch"
-        ],
-        "angles": [
-          "AI 工具/工作流拆解",
-          "独立开发者/增长案例",
-          "小红书卡片：痛点-工具-结果"
-        ],
-        "recommendation": "独立开发案例库"
-      },
-      {
-        "title": "How I Stopped Despairing Over the Backyard Mess and Started an AI Side Project",
-        "url": "https://dev.to/cathylai/how-i-stopped-despairing-over-the-backyard-mess-and-started-an-ai-side-project-3f9a",
-        "source": "Dev.to",
-        "summary": "Back-breaking, Expensive Backyard Clean Up After spending weeks of labour and money...",
-        "publishedAt": "2026-05-11T02:21:29Z",
-        "rawSignal": 16.6,
-        "id": "2002a311a22f",
-        "score": 48,
-        "scoreBreakdown": {
-          "signal": 17,
-          "relevance": 7,
-          "contentFit": 10,
-          "business": 7,
-          "recency": 8
-        },
-        "tags": [
-          "ai",
-          "side project"
         ],
         "angles": [
           "AI 工具/工作流拆解",
@@ -2322,12 +2324,12 @@
         "recommendation": "观察名单"
       },
       {
-        "title": "beenuar/AiSOC ★850",
+        "title": "beenuar/AiSOC ★856",
         "url": "https://github.com/beenuar/AiSOC",
         "source": "GitHub Trending Search",
         "summary": "Open-source AI-powered Security Operations Center — alert fusion, purple-team drills, agent-assisted triage, MITRE ATT&CK investigation. MIT-licensed, self-hostable.",
         "publishedAt": "2026-05-02T03:30:19Z",
-        "rawSignal": 33.439436480676704,
+        "rawSignal": 33.46384657538559,
         "id": "d374e5dcfaab",
         "score": 54,
         "scoreBreakdown": {
@@ -2348,12 +2350,38 @@
         "recommendation": "观察名单"
       },
       {
+        "title": "I Graded My Agent Deployment Doc Against LangChain Interrupt - Here Are the 5 Gaps",
+        "url": "https://dev.to/itskondrat/i-graded-my-agent-deployment-doc-against-langchain-interrupt-here-are-the-5-gaps-572g",
+        "source": "Dev.to",
+        "summary": "canonical_url: I do a lot of deployment authorization docs. That's the PM version of what an SRE...",
+        "publishedAt": "2026-05-13T07:34:10Z",
+        "rawSignal": 16.8,
+        "id": "f21b7ed36fba",
+        "score": 54,
+        "scoreBreakdown": {
+          "signal": 17,
+          "relevance": 10,
+          "contentFit": 14,
+          "business": 4,
+          "recency": 9
+        },
+        "tags": [
+          "ai",
+          "agent"
+        ],
+        "angles": [
+          "AI 工具/工作流拆解",
+          "小红书卡片：痛点-工具-结果"
+        ],
+        "recommendation": "观察名单"
+      },
+      {
         "title": "I don't use any of my SaaS AI tools. Here's what I built instead with MCPs",
         "url": "https://twitter.com/sharkymark123/status/2053154200679600617",
         "source": "Hacker News",
         "summary": "I don't use any of my SaaS AI tools. Here's what I built instead with MCPs",
         "publishedAt": "2026-05-13T16:13:20Z",
-        "rawSignal": 8.083333333333334,
+        "rawSignal": 8.166666666666666,
         "id": "3a8113a9dde7",
         "score": 53,
         "scoreBreakdown": {
@@ -2378,12 +2406,12 @@
         "recommendation": "观察名单"
       },
       {
-        "title": "lessweb/deepcode-cli ★665",
+        "title": "lessweb/deepcode-cli ★668",
         "url": "https://github.com/lessweb/deepcode-cli",
         "source": "GitHub Trending Search",
         "summary": "Deep Code 是专为 deepseek-v4 模型优化的终端 AI 编码助手，支持深度思考、推理强度控制以及 Agent Skills。",
         "publishedAt": "2026-04-28T11:51:19Z",
-        "rawSignal": 32.58779383336241,
+        "rawSignal": 32.603408942142586,
         "id": "26f383cbfe1e",
         "score": 53,
         "scoreBreakdown": {
@@ -2430,32 +2458,6 @@
         "recommendation": "观察名单"
       },
       {
-        "title": "matty69v/Bug-Bounty-Agents ★233",
-        "url": "https://github.com/matty69v/Bug-Bounty-Agents",
-        "source": "GitHub Trending Search",
-        "summary": "AI-Powered Agents for Bub-Bounty Pentesting and Red-Teaming purposes",
-        "publishedAt": "2026-04-29T06:00:09Z",
-        "rawSignal": 28.953726859281144,
-        "id": "44ffd619ae63",
-        "score": 53,
-        "scoreBreakdown": {
-          "signal": 25,
-          "relevance": 10,
-          "contentFit": 14,
-          "business": 4,
-          "recency": 0
-        },
-        "tags": [
-          "ai",
-          "agent"
-        ],
-        "angles": [
-          "AI 工具/工作流拆解",
-          "小红书卡片：痛点-工具-结果"
-        ],
-        "recommendation": "观察名单"
-      },
-      {
         "title": "elara-labs/code-context-engine ★103",
         "url": "https://github.com/elara-labs/code-context-engine",
         "source": "GitHub Trending Search",
@@ -2479,32 +2481,6 @@
         "angles": [
           "AI 工具/工作流拆解",
           "MCP 生态应用清单",
-          "小红书卡片：痛点-工具-结果"
-        ],
-        "recommendation": "观察名单"
-      },
-      {
-        "title": "I Graded My Agent Deployment Doc Against LangChain Interrupt - Here Are the 5 Gaps",
-        "url": "https://dev.to/itskondrat/i-graded-my-agent-deployment-doc-against-langchain-interrupt-here-are-the-5-gaps-572g",
-        "source": "Dev.to",
-        "summary": "canonical_url: I do a lot of deployment authorization docs. That's the PM version of what an SRE...",
-        "publishedAt": "2026-05-13T07:34:10Z",
-        "rawSignal": 15.6,
-        "id": "f21b7ed36fba",
-        "score": 53,
-        "scoreBreakdown": {
-          "signal": 16,
-          "relevance": 10,
-          "contentFit": 14,
-          "business": 4,
-          "recency": 9
-        },
-        "tags": [
-          "ai",
-          "agent"
-        ],
-        "angles": [
-          "AI 工具/工作流拆解",
           "小红书卡片：痛点-工具-结果"
         ],
         "recommendation": "观察名单"
@@ -2641,23 +2617,24 @@
         "recommendation": "观察名单"
       },
       {
-        "title": "Maryland citizens hit with $2B power grid upgrade for out-of-state AI",
-        "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/maryland-citizens-slapped-with-usd2-billion-grid-upgrade-bill-for-out-of-state-ai-data-centers-state-complains-to-federal-energy-regulators-says-additional-cost-breaks-ratepayer-protection-pledge-promises",
+        "title": "Show HN: Zenflow a multi-agent orchestration and workflow engine",
+        "url": "https://github.com/zendev-sh/zenflow",
         "source": "Hacker News",
-        "summary": "Maryland citizens hit with $2B power grid upgrade for out-of-state AI",
-        "publishedAt": "2026-05-10T21:16:58Z",
-        "rawSignal": 30,
-        "id": "e05ce67a3c59",
+        "summary": "Show HN: Zenflow a multi-agent orchestration and workflow engine",
+        "publishedAt": "2026-05-14T10:37:58Z",
+        "rawSignal": 8.083333333333334,
+        "id": "125dcae498f2",
         "score": 51,
         "scoreBreakdown": {
-          "signal": 25,
-          "relevance": 4,
-          "contentFit": 10,
-          "business": 4,
-          "recency": 8
+          "signal": 8,
+          "relevance": 12,
+          "contentFit": 14,
+          "business": 7,
+          "recency": 10
         },
         "tags": [
-          "ai"
+          "agent",
+          "workflow"
         ],
         "angles": [
           "AI 工具/工作流拆解",
@@ -2736,6 +2713,32 @@
         "tags": [
           "ai",
           "agent"
+        ],
+        "angles": [
+          "AI 工具/工作流拆解",
+          "小红书卡片：痛点-工具-结果"
+        ],
+        "recommendation": "观察名单"
+      },
+      {
+        "title": "Agent FM for Claude Code & Codex",
+        "url": "https://www.producthunt.com/products/agent-fm-for-claude-code-codex",
+        "source": "Product Hunt RSS",
+        "summary": "Discussion | Link",
+        "publishedAt": "2026-05-14T03:29:24.000Z",
+        "rawSignal": 12,
+        "id": "a5d02b32e9cf",
+        "score": 50,
+        "scoreBreakdown": {
+          "signal": 12,
+          "relevance": 10,
+          "contentFit": 14,
+          "business": 4,
+          "recency": 10
+        },
+        "tags": [
+          "agent",
+          "claude"
         ],
         "angles": [
           "AI 工具/工作流拆解",
@@ -2934,7 +2937,7 @@
         "url": "https://x.com/Kimi_Moonshot/status/2054803169994272819",
         "source": "AIHOT",
         "summary": "Kimi K2.6 现已成为 Finance Agent Benchmark V2 开源权重排名第一。 【引用 @ValsAI】：AI 能胜任金融分析师的工作吗？",
-        "publishedAt": "2026-05-14T09:50:52.030Z",
+        "publishedAt": "2026-05-14T12:41:00.175Z",
         "rawSignal": 8,
         "id": "2224abed99ad",
         "score": 48,
@@ -2961,7 +2964,7 @@
         "url": "https://the-decoder.com/anthropic-overtakes-openai-in-b2b-adoption-for-the-first-time-according-to-ramp-spending-data",
         "source": "AIHOT",
         "summary": "Anthropic 首次在 B2B 采用率上超越 OpenAI，Ramp 支出数据显示",
-        "publishedAt": "2026-05-14T09:50:52.031Z",
+        "publishedAt": "2026-05-14T12:41:00.175Z",
         "rawSignal": 8,
         "id": "2d957a06ca7f",
         "score": 48,
@@ -2985,12 +2988,67 @@
         "recommendation": "观察名单"
       },
       {
+        "title": "Why agentic coding makes the spec problem worse",
+        "url": "https://www.bicameral-ai.com/blog/why-agentic-coding-makes-the-spec-problem-worse",
+        "source": "Hacker News",
+        "summary": "Why agentic coding makes the spec problem worse",
+        "publishedAt": "2026-05-14T12:21:40Z",
+        "rawSignal": 8.083333333333334,
+        "id": "4e4e619fbc9a",
+        "score": 48,
+        "scoreBreakdown": {
+          "signal": 8,
+          "relevance": 12,
+          "contentFit": 14,
+          "business": 4,
+          "recency": 10
+        },
+        "tags": [
+          "agent",
+          "coding"
+        ],
+        "angles": [
+          "AI 工具/工作流拆解",
+          "AI 编程提效实测",
+          "小红书卡片：痛点-工具-结果"
+        ],
+        "recommendation": "观察名单"
+      },
+      {
+        "title": "SicariusGuard – Solana token safety oracle for AI agents (MCP server)",
+        "url": "https://github.com/Chronolapse411/sicarius-guard",
+        "source": "Hacker News",
+        "summary": "SicariusGuard – Solana token safety oracle for AI agents (MCP server)",
+        "publishedAt": "2026-05-14T11:52:47Z",
+        "rawSignal": 8.083333333333334,
+        "id": "ee7ef2a0e63c",
+        "score": 48,
+        "scoreBreakdown": {
+          "signal": 8,
+          "relevance": 12,
+          "contentFit": 14,
+          "business": 4,
+          "recency": 10
+        },
+        "tags": [
+          "ai",
+          "agent",
+          "mcp"
+        ],
+        "angles": [
+          "AI 工具/工作流拆解",
+          "MCP 生态应用清单",
+          "小红书卡片：痛点-工具-结果"
+        ],
+        "recommendation": "观察名单"
+      },
+      {
         "title": "Show HN: Containarium – self-hosted sandbox for AI agents, MCP-native",
         "url": "https://github.com/footprintai/Containarium",
         "source": "Hacker News",
         "summary": "Show HN: Containarium – self-hosted sandbox for AI agents, MCP-native",
         "publishedAt": "2026-05-14T02:46:36Z",
-        "rawSignal": 8.25,
+        "rawSignal": 8.375,
         "id": "edd5f034a2d9",
         "score": 48,
         "scoreBreakdown": {
@@ -3026,7 +3084,7 @@
           "relevance": 14,
           "contentFit": 14,
           "business": 8,
-          "recency": 4
+          "recency": 3
         },
         "tags": [
           "ai",
@@ -3039,68 +3097,14 @@
           "小红书卡片：痛点-工具-结果"
         ],
         "recommendation": "观察名单"
-      },
-      {
-        "title": "Show HN: Endpoint Context Protocol – Browsers get HTML, AI agents get Markdown",
-        "url": "https://endpointcontext.io",
-        "source": "Hacker News",
-        "summary": "Show HN: Endpoint Context Protocol – Browsers get HTML, AI agents get Markdown",
-        "publishedAt": "2026-05-13T15:30:17Z",
-        "rawSignal": 8.25,
-        "id": "571495903e9a",
-        "score": 48,
-        "scoreBreakdown": {
-          "signal": 8,
-          "relevance": 12,
-          "contentFit": 14,
-          "business": 4,
-          "recency": 9
-        },
-        "tags": [
-          "ai",
-          "agent",
-          "browser"
-        ],
-        "angles": [
-          "AI 工具/工作流拆解",
-          "浏览器 Agent 场景",
-          "小红书卡片：痛点-工具-结果"
-        ],
-        "recommendation": "观察名单"
-      },
-      {
-        "title": "arizen-dev/deepseek-mcp ★46",
-        "url": "https://github.com/arizen-dev/deepseek-mcp",
-        "source": "GitHub Trending Search",
-        "summary": "A tiny MCP stdio server that exposes DeepSeek as a cheap supervised worker for Claude Code, Codex, or any MCP client.",
-        "publishedAt": "2026-04-30T13:11:29Z",
-        "rawSignal": 23.37678286348574,
-        "id": "e80e9093a56d",
-        "score": 48,
-        "scoreBreakdown": {
-          "signal": 23,
-          "relevance": 6,
-          "contentFit": 14,
-          "business": 4,
-          "recency": 0
-        },
-        "tags": [
-          "claude",
-          "mcp"
-        ],
-        "angles": [
-          "AI 工具/工作流拆解",
-          "MCP 生态应用清单",
-          "小红书卡片：痛点-工具-结果"
-        ],
-        "recommendation": "观察名单"
       }
     ]
   },
   "sourceStats": {
-    "GitHub Trending Search": 42,
-    "Dev.to": 21,
-    "Hacker News": 15,
+    "GitHub Trending Search": 41,
+    "Dev.to": 20,
+    "Hacker News": 16,
+    "Product Hunt RSS": 1,
     "AIHOT": 2
   }
 }
