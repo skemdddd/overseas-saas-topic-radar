@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-12T20:18:52.910Z",
+  "generatedAt": "2026-09-12T22:53:24.554Z",
   "sourceCount": 8,
   "itemCount": 80,
   "topItems": [
@@ -9,11 +9,11 @@
       "source": "Hacker News",
       "summary": "The worst spam emails: iLands AI agent hustle",
       "publishedAt": "2026-09-12T11:13:38Z",
-      "rawSignal": 20.666666666666668,
+      "rawSignal": 22.125,
       "id": "8b8c97af70ad",
-      "score": 79,
+      "score": 81,
       "scoreBreakdown": {
-        "signal": 24,
+        "signal": 25,
         "relevance": 16,
         "contentFit": 18,
         "business": 12,
@@ -32,7 +32,7 @@
         "小红书卡片：痛点-工具-结果"
       ],
       "recommendation": "用户吐槽/开发机会",
-      "selectionReason": "入选原因：来源 Hacker News 的信号强度 24/25；用户负反馈：worst；AI/工具关键词：ai、agent；热点场景：agent、email。",
+      "selectionReason": "入选原因：来源 Hacker News 的信号强度 25/25；用户负反馈：worst；AI/工具关键词：ai、agent；热点场景：agent、email。",
       "nextAction": "建议：把这条负反馈当作开发机会处理，先追原帖评论确认高频痛点，再拆 MVP 替代方案：目标用户、现有 SaaS 不好用点、愿付费场景、可 1 周验证的最小功能。",
       "opportunity": {
         "type": "用户吐槽/开发机会",
@@ -198,12 +198,12 @@
       }
     },
     {
-      "title": "tigerless-labs/agent-memory ★1159",
+      "title": "tigerless-labs/agent-memory ★1162",
       "url": "https://github.com/tigerless-labs/agent-memory",
       "source": "GitHub Trending Search",
       "summary": "Long-term memory runtime for AI agents — plain Markdown as the source of truth, local ranked retrieval, and an independent sleep-time Manage layer. Claude Code and Codex share one store. No API key.",
       "publishedAt": "2026-09-01T21:52:29Z",
-      "rawSignal": 34.515663913815345,
+      "rawSignal": 34.52463771782759,
       "id": "9bb95970cefc",
       "score": 70,
       "scoreBreakdown": {
@@ -262,6 +262,49 @@
       "nextAction": "建议：先做 30 分钟资料核验，拆成“痛点 → 现有方案 → 商业化机会 → 可复制工作流”，再决定是否写公众号深度文。"
     },
     {
+      "title": "The AI receptionist market is solving the wrong problem",
+      "url": "https://dev.to/autor_tech/the-ai-receptionist-market-is-solving-the-wrong-problem-3f4a",
+      "source": "Dev.to",
+      "summary": "Every AI voice startup in healthcare is demoing the same thing: \"Listen to how natural it sounds!\"...",
+      "publishedAt": "2026-09-08T03:13:58Z",
+      "rawSignal": 8,
+      "id": "63c7013ec8f3",
+      "score": 70,
+      "scoreBreakdown": {
+        "signal": 11,
+        "relevance": 19,
+        "contentFit": 18,
+        "business": 15,
+        "recency": 7
+      },
+      "tags": [
+        "ai",
+        "voice",
+        "startup",
+        "health",
+        "用户吐槽",
+        "开发机会"
+      ],
+      "angles": [
+        "用户吐槽 → 开发机会",
+        "AI 工具/工作流拆解",
+        "独立开发者/增长案例",
+        "小红书卡片：痛点-工具-结果"
+      ],
+      "recommendation": "用户吐槽/开发机会",
+      "selectionReason": "入选原因：来源 Dev.to 的信号强度 11/25；用户负反馈：problem；AI/工具关键词：ai、voice；独立开发/增长关键词：startup。",
+      "nextAction": "建议：把这条负反馈当作开发机会处理，先追原帖评论确认高频痛点，再拆 MVP 替代方案：目标用户、现有 SaaS 不好用点、愿付费场景、可 1 周验证的最小功能。",
+      "opportunity": {
+        "type": "用户吐槽/开发机会",
+        "complaintHits": [
+          "problem"
+        ],
+        "contextHits": [
+          "ai"
+        ]
+      }
+    },
+    {
       "title": "用ChatGPT编写氛围代码简直痛苦至极，但我居然完成了一个项目",
       "url": "https://old.reddit.com/r/SideProject/comments/1qxqphw/vibe_coding_with_chatgpt_is_painfully_hard_but_i/",
       "source": "Buzzing SideProject",
@@ -298,6 +341,45 @@
         "complaintHits": [
           "painfully hard",
           "痛苦"
+        ],
+        "contextHits": [
+          "ai"
+        ]
+      }
+    },
+    {
+      "title": "Anthropic CEO Says It's Time to Slow AI Model Advances",
+      "url": "https://www.bloomberg.com/news/articles/2026-09-12/anthropic-ceo-says-it-s-time-to-slow-pace-of-improving-ai-models",
+      "source": "Hacker News",
+      "summary": "Anthropic CEO Says It's Time to Slow AI Model Advances",
+      "publishedAt": "2026-09-12T18:07:07Z",
+      "rawSignal": 20.041666666666664,
+      "id": "a9df7af2fde6",
+      "score": 67,
+      "scoreBreakdown": {
+        "signal": 23,
+        "relevance": 8,
+        "contentFit": 14,
+        "business": 12,
+        "recency": 10
+      },
+      "tags": [
+        "ai",
+        "用户吐槽",
+        "开发机会"
+      ],
+      "angles": [
+        "用户吐槽 → 开发机会",
+        "AI 工具/工作流拆解",
+        "小红书卡片：痛点-工具-结果"
+      ],
+      "recommendation": "用户吐槽/开发机会",
+      "selectionReason": "入选原因：来源 Hacker News 的信号强度 23/25；用户负反馈：slow；AI/工具关键词：ai。",
+      "nextAction": "建议：把这条负反馈当作开发机会处理，先追原帖评论确认高频痛点，再拆 MVP 替代方案：目标用户、现有 SaaS 不好用点、愿付费场景、可 1 周验证的最小功能。",
+      "opportunity": {
+        "type": "用户吐槽/开发机会",
+        "complaintHits": [
+          "slow"
         ],
         "contextHits": [
           "ai"
@@ -370,12 +452,12 @@
       "nextAction": "建议：做一张小红书卡片，标题突出具体人群和结果；同时找 2-3 个同类工具做实测对比。"
     },
     {
-      "title": "okf-memory/okf-agent-memory ★599",
+      "title": "okf-memory/okf-agent-memory ★604",
       "url": "https://github.com/okf-memory/okf-agent-memory",
       "source": "GitHub Trending Search",
       "summary": "Git-native persistent memory for AI coding agents. Implements Google OKF v0.2 with sub-300µs in-memory BM25 search, embedded MCP server, and progressive disclosure. Slashes token bloat by 80% with zero external databases or dependencies. Built in pure Go.",
       "publishedAt": "2026-09-05T21:26:04Z",
-      "rawSignal": 32.22521000306915,
+      "rawSignal": 32.254042997219756,
       "id": "f31be0c625cb",
       "score": 66,
       "scoreBreakdown": {
@@ -516,92 +598,12 @@
       }
     },
     {
-      "title": "Anthropic CEO Says It's Time to Slow AI Model Advances",
-      "url": "https://www.bloomberg.com/news/articles/2026-09-12/anthropic-ceo-says-it-s-time-to-slow-pace-of-improving-ai-models",
-      "source": "Hacker News",
-      "summary": "Anthropic CEO Says It's Time to Slow AI Model Advances",
-      "publishedAt": "2026-09-12T18:07:07Z",
-      "rawSignal": 18.333333333333336,
-      "id": "a9df7af2fde6",
-      "score": 65,
-      "scoreBreakdown": {
-        "signal": 21,
-        "relevance": 8,
-        "contentFit": 14,
-        "business": 12,
-        "recency": 10
-      },
-      "tags": [
-        "ai",
-        "用户吐槽",
-        "开发机会"
-      ],
-      "angles": [
-        "用户吐槽 → 开发机会",
-        "AI 工具/工作流拆解",
-        "小红书卡片：痛点-工具-结果"
-      ],
-      "recommendation": "用户吐槽/开发机会",
-      "selectionReason": "入选原因：来源 Hacker News 的信号强度 21/25；用户负反馈：slow；AI/工具关键词：ai。",
-      "nextAction": "建议：把这条负反馈当作开发机会处理，先追原帖评论确认高频痛点，再拆 MVP 替代方案：目标用户、现有 SaaS 不好用点、愿付费场景、可 1 周验证的最小功能。",
-      "opportunity": {
-        "type": "用户吐槽/开发机会",
-        "complaintHits": [
-          "slow"
-        ],
-        "contextHits": [
-          "ai"
-        ]
-      }
-    },
-    {
-      "title": "Anthropic reveals rogue AI agents hate CAPTCHAs",
-      "url": "https://techcrunch.com/2026/09/10/anthropic-reveals-rogue-ai-agents-hate-captchas-just-like-you/",
-      "source": "Hacker News",
-      "summary": "Anthropic reveals rogue AI agents hate CAPTCHAs",
-      "publishedAt": "2026-09-12T04:55:29Z",
-      "rawSignal": 8.166666666666666,
-      "id": "4a1ed4173818",
-      "score": 65,
-      "scoreBreakdown": {
-        "signal": 11,
-        "relevance": 14,
-        "contentFit": 18,
-        "business": 12,
-        "recency": 10
-      },
-      "tags": [
-        "ai",
-        "agent",
-        "用户吐槽",
-        "开发机会"
-      ],
-      "angles": [
-        "用户吐槽 → 开发机会",
-        "AI 工具/工作流拆解",
-        "小红书卡片：痛点-工具-结果"
-      ],
-      "recommendation": "用户吐槽/开发机会",
-      "selectionReason": "入选原因：来源 Hacker News 的信号强度 11/25；用户负反馈：hate；AI/工具关键词：ai、agent；热点场景：agent。",
-      "nextAction": "建议：把这条负反馈当作开发机会处理，先追原帖评论确认高频痛点，再拆 MVP 替代方案：目标用户、现有 SaaS 不好用点、愿付费场景、可 1 周验证的最小功能。",
-      "opportunity": {
-        "type": "用户吐槽/开发机会",
-        "complaintHits": [
-          "hate"
-        ],
-        "contextHits": [
-          "agent",
-          "ai"
-        ]
-      }
-    },
-    {
-      "title": "Alexwtlf/agentic-product-demo ★236",
+      "title": "Alexwtlf/agentic-product-demo ★237",
       "url": "https://github.com/Alexwtlf/agentic-product-demo",
       "source": "GitHub Trending Search",
       "summary": "Create polished product demo videos with AI coding agents and Remotion. The UI is code, not a screen recording.",
       "publishedAt": "2026-08-24T18:38:19Z",
-      "rawSignal": 28.997986768080832,
+      "rawSignal": 29.012615656452095,
       "id": "2eb4217d712d",
       "score": 65,
       "scoreBreakdown": {
@@ -890,52 +892,12 @@
       "nextAction": "建议：先放入素材池追踪 24-48 小时，观察是否有二次传播、竞品跟进或用户评论痛点。"
     },
     {
-      "title": "Why Vibe-Coded Products Start to Feel the Same",
-      "url": "https://dev.to/mmm69e885441d77/why-vibe-coded-products-start-to-feel-the-same-41g4",
-      "source": "Dev.to",
-      "summary": "Vibe coding solved a surprisingly large part of the “can I build this?” problem. That is a good...",
-      "publishedAt": "2026-09-09T02:17:53Z",
-      "rawSignal": 11.2,
-      "id": "b241c729d961",
-      "score": 62,
-      "scoreBreakdown": {
-        "signal": 14,
-        "relevance": 10,
-        "contentFit": 18,
-        "business": 12,
-        "recency": 7
-      },
-      "tags": [
-        "coding",
-        "用户吐槽",
-        "开发机会"
-      ],
-      "angles": [
-        "用户吐槽 → 开发机会",
-        "AI 工具/工作流拆解",
-        "AI 编程提效实测",
-        "小红书卡片：痛点-工具-结果"
-      ],
-      "recommendation": "用户吐槽/开发机会",
-      "selectionReason": "入选原因：来源 Dev.to 的信号强度 14/25；用户负反馈：problem；AI/工具关键词：coding；热点场景：coding。",
-      "nextAction": "建议：把这条负反馈当作开发机会处理，先追原帖评论确认高频痛点，再拆 MVP 替代方案：目标用户、现有 SaaS 不好用点、愿付费场景、可 1 周验证的最小功能。",
-      "opportunity": {
-        "type": "用户吐槽/开发机会",
-        "complaintHits": [
-          "problem"
-        ],
-        "contextHits": [
-          "product"
-        ]
-      }
-    },
-    {
-      "title": "Station-Sciences/bot-crossing ★500",
+      "title": "Station-Sciences/bot-crossing ★502",
       "url": "https://github.com/Station-Sciences/bot-crossing",
       "source": "GitHub Trending Search",
       "summary": "A video game for AI agents. Created by Jarren Rocks",
       "publishedAt": "2026-09-01T19:56:46Z",
-      "rawSignal": 31.598701806937967,
+      "rawSignal": 31.61254388044742,
       "id": "1798f8da9929",
       "score": 61,
       "scoreBreakdown": {
@@ -959,12 +921,12 @@
       "nextAction": "建议：先放入素材池追踪 24-48 小时，观察是否有二次传播、竞品跟进或用户评论痛点。"
     },
     {
-      "title": "i-am-manware/Manware-s-AI-Learning-Toolkit ★386",
+      "title": "i-am-manware/Manware-s-AI-Learning-Toolkit ★387",
       "url": "https://github.com/i-am-manware/Manware-s-AI-Learning-Toolkit",
       "source": "GitHub Trending Search",
       "summary": "An AI toolkit that turns agents into teachers rather than code yapping machines",
       "publishedAt": "2026-09-05T16:46:07Z",
-      "rawSignal": 30.70168772015129,
+      "rawSignal": 30.710653804753658,
       "id": "086970f72914",
       "score": 61,
       "scoreBreakdown": {
@@ -1018,12 +980,12 @@
       "nextAction": "建议：先放入素材池追踪 24-48 小时，观察是否有二次传播、竞品跟进或用户评论痛点。"
     },
     {
-      "title": "Atomburstofficial/geiger ★113",
+      "title": "Atomburstofficial/geiger ★114",
       "url": "https://github.com/Atomburstofficial/geiger",
       "source": "GitHub Trending Search",
       "summary": "A Geiger counter for AI agents — one read-only command that inventories every agent, MCP server, plugin, and AI extension on a machine",
       "publishedAt": "2026-09-06T17:45:50Z",
-      "rawSignal": 26.45523881069178,
+      "rawSignal": 26.485582722828894,
       "id": "74125c188853",
       "score": 61,
       "scoreBreakdown": {
@@ -1046,6 +1008,46 @@
       "recommendation": "快讯/素材池追踪",
       "selectionReason": "入选原因：来源 GitHub Trending Search 的信号强度 25/25；AI/工具关键词：ai、agent；热点场景：agent、mcp。",
       "nextAction": "建议：先放入素材池追踪 24-48 小时，观察是否有二次传播、竞品跟进或用户评论痛点。"
+    },
+    {
+      "title": "Your prompt system has no tests, and that is why you cannot tell it is broken",
+      "url": "https://dev.to/latifox/your-prompt-system-has-no-tests-and-that-is-why-you-cannot-tell-it-is-broken-10bh",
+      "source": "Dev.to",
+      "summary": "Tags: ai, python, testing, showdev Code fails loudly. A prompt system fails in silence, and it...",
+      "publishedAt": "2026-09-06T21:24:56Z",
+      "rawSignal": 15.4,
+      "id": "3e5342740e2e",
+      "score": 61,
+      "scoreBreakdown": {
+        "signal": 18,
+        "relevance": 8,
+        "contentFit": 17,
+        "business": 12,
+        "recency": 6
+      },
+      "tags": [
+        "ai",
+        "prompt",
+        "用户吐槽",
+        "开发机会"
+      ],
+      "angles": [
+        "用户吐槽 → 开发机会",
+        "AI 工具/工作流拆解",
+        "小红书卡片：痛点-工具-结果"
+      ],
+      "recommendation": "用户吐槽/开发机会",
+      "selectionReason": "入选原因：来源 Dev.to 的信号强度 18/25；用户负反馈：broken；AI/工具关键词：ai；内容适配关键词：prompt。",
+      "nextAction": "建议：把这条负反馈当作开发机会处理，先追原帖评论确认高频痛点，再拆 MVP 替代方案：目标用户、现有 SaaS 不好用点、愿付费场景、可 1 周验证的最小功能。",
+      "opportunity": {
+        "type": "用户吐槽/开发机会",
+        "complaintHits": [
+          "broken"
+        ],
+        "contextHits": [
+          "ai"
+        ]
+      }
     }
   ],
   "opportunityItems": [
@@ -1055,11 +1057,11 @@
       "source": "Hacker News",
       "summary": "The worst spam emails: iLands AI agent hustle",
       "publishedAt": "2026-09-12T11:13:38Z",
-      "rawSignal": 20.666666666666668,
+      "rawSignal": 22.125,
       "id": "8b8c97af70ad",
-      "score": 79,
+      "score": 81,
       "scoreBreakdown": {
-        "signal": 24,
+        "signal": 25,
         "relevance": 16,
         "contentFit": 18,
         "business": 12,
@@ -1078,7 +1080,7 @@
         "小红书卡片：痛点-工具-结果"
       ],
       "recommendation": "用户吐槽/开发机会",
-      "selectionReason": "入选原因：来源 Hacker News 的信号强度 24/25；用户负反馈：worst；AI/工具关键词：ai、agent；热点场景：agent、email。",
+      "selectionReason": "入选原因：来源 Hacker News 的信号强度 25/25；用户负反馈：worst；AI/工具关键词：ai、agent；热点场景：agent、email。",
       "nextAction": "建议：把这条负反馈当作开发机会处理，先追原帖评论确认高频痛点，再拆 MVP 替代方案：目标用户、现有 SaaS 不好用点、愿付费场景、可 1 周验证的最小功能。",
       "opportunity": {
         "type": "用户吐槽/开发机会",
@@ -1176,6 +1178,49 @@
       }
     },
     {
+      "title": "The AI receptionist market is solving the wrong problem",
+      "url": "https://dev.to/autor_tech/the-ai-receptionist-market-is-solving-the-wrong-problem-3f4a",
+      "source": "Dev.to",
+      "summary": "Every AI voice startup in healthcare is demoing the same thing: \"Listen to how natural it sounds!\"...",
+      "publishedAt": "2026-09-08T03:13:58Z",
+      "rawSignal": 8,
+      "id": "63c7013ec8f3",
+      "score": 70,
+      "scoreBreakdown": {
+        "signal": 11,
+        "relevance": 19,
+        "contentFit": 18,
+        "business": 15,
+        "recency": 7
+      },
+      "tags": [
+        "ai",
+        "voice",
+        "startup",
+        "health",
+        "用户吐槽",
+        "开发机会"
+      ],
+      "angles": [
+        "用户吐槽 → 开发机会",
+        "AI 工具/工作流拆解",
+        "独立开发者/增长案例",
+        "小红书卡片：痛点-工具-结果"
+      ],
+      "recommendation": "用户吐槽/开发机会",
+      "selectionReason": "入选原因：来源 Dev.to 的信号强度 11/25；用户负反馈：problem；AI/工具关键词：ai、voice；独立开发/增长关键词：startup。",
+      "nextAction": "建议：把这条负反馈当作开发机会处理，先追原帖评论确认高频痛点，再拆 MVP 替代方案：目标用户、现有 SaaS 不好用点、愿付费场景、可 1 周验证的最小功能。",
+      "opportunity": {
+        "type": "用户吐槽/开发机会",
+        "complaintHits": [
+          "problem"
+        ],
+        "contextHits": [
+          "ai"
+        ]
+      }
+    },
+    {
       "title": "用ChatGPT编写氛围代码简直痛苦至极，但我居然完成了一个项目",
       "url": "https://old.reddit.com/r/SideProject/comments/1qxqphw/vibe_coding_with_chatgpt_is_painfully_hard_but_i/",
       "source": "Buzzing SideProject",
@@ -1212,6 +1257,45 @@
         "complaintHits": [
           "painfully hard",
           "痛苦"
+        ],
+        "contextHits": [
+          "ai"
+        ]
+      }
+    },
+    {
+      "title": "Anthropic CEO Says It's Time to Slow AI Model Advances",
+      "url": "https://www.bloomberg.com/news/articles/2026-09-12/anthropic-ceo-says-it-s-time-to-slow-pace-of-improving-ai-models",
+      "source": "Hacker News",
+      "summary": "Anthropic CEO Says It's Time to Slow AI Model Advances",
+      "publishedAt": "2026-09-12T18:07:07Z",
+      "rawSignal": 20.041666666666664,
+      "id": "a9df7af2fde6",
+      "score": 67,
+      "scoreBreakdown": {
+        "signal": 23,
+        "relevance": 8,
+        "contentFit": 14,
+        "business": 12,
+        "recency": 10
+      },
+      "tags": [
+        "ai",
+        "用户吐槽",
+        "开发机会"
+      ],
+      "angles": [
+        "用户吐槽 → 开发机会",
+        "AI 工具/工作流拆解",
+        "小红书卡片：痛点-工具-结果"
+      ],
+      "recommendation": "用户吐槽/开发机会",
+      "selectionReason": "入选原因：来源 Hacker News 的信号强度 23/25；用户负反馈：slow；AI/工具关键词：ai。",
+      "nextAction": "建议：把这条负反馈当作开发机会处理，先追原帖评论确认高频痛点，再拆 MVP 替代方案：目标用户、现有 SaaS 不好用点、愿付费场景、可 1 周验证的最小功能。",
+      "opportunity": {
+        "type": "用户吐槽/开发机会",
+        "complaintHits": [
+          "slow"
         ],
         "contextHits": [
           "ai"
@@ -1302,86 +1386,6 @@
       }
     },
     {
-      "title": "Anthropic CEO Says It's Time to Slow AI Model Advances",
-      "url": "https://www.bloomberg.com/news/articles/2026-09-12/anthropic-ceo-says-it-s-time-to-slow-pace-of-improving-ai-models",
-      "source": "Hacker News",
-      "summary": "Anthropic CEO Says It's Time to Slow AI Model Advances",
-      "publishedAt": "2026-09-12T18:07:07Z",
-      "rawSignal": 18.333333333333336,
-      "id": "a9df7af2fde6",
-      "score": 65,
-      "scoreBreakdown": {
-        "signal": 21,
-        "relevance": 8,
-        "contentFit": 14,
-        "business": 12,
-        "recency": 10
-      },
-      "tags": [
-        "ai",
-        "用户吐槽",
-        "开发机会"
-      ],
-      "angles": [
-        "用户吐槽 → 开发机会",
-        "AI 工具/工作流拆解",
-        "小红书卡片：痛点-工具-结果"
-      ],
-      "recommendation": "用户吐槽/开发机会",
-      "selectionReason": "入选原因：来源 Hacker News 的信号强度 21/25；用户负反馈：slow；AI/工具关键词：ai。",
-      "nextAction": "建议：把这条负反馈当作开发机会处理，先追原帖评论确认高频痛点，再拆 MVP 替代方案：目标用户、现有 SaaS 不好用点、愿付费场景、可 1 周验证的最小功能。",
-      "opportunity": {
-        "type": "用户吐槽/开发机会",
-        "complaintHits": [
-          "slow"
-        ],
-        "contextHits": [
-          "ai"
-        ]
-      }
-    },
-    {
-      "title": "Anthropic reveals rogue AI agents hate CAPTCHAs",
-      "url": "https://techcrunch.com/2026/09/10/anthropic-reveals-rogue-ai-agents-hate-captchas-just-like-you/",
-      "source": "Hacker News",
-      "summary": "Anthropic reveals rogue AI agents hate CAPTCHAs",
-      "publishedAt": "2026-09-12T04:55:29Z",
-      "rawSignal": 8.166666666666666,
-      "id": "4a1ed4173818",
-      "score": 65,
-      "scoreBreakdown": {
-        "signal": 11,
-        "relevance": 14,
-        "contentFit": 18,
-        "business": 12,
-        "recency": 10
-      },
-      "tags": [
-        "ai",
-        "agent",
-        "用户吐槽",
-        "开发机会"
-      ],
-      "angles": [
-        "用户吐槽 → 开发机会",
-        "AI 工具/工作流拆解",
-        "小红书卡片：痛点-工具-结果"
-      ],
-      "recommendation": "用户吐槽/开发机会",
-      "selectionReason": "入选原因：来源 Hacker News 的信号强度 11/25；用户负反馈：hate；AI/工具关键词：ai、agent；热点场景：agent。",
-      "nextAction": "建议：把这条负反馈当作开发机会处理，先追原帖评论确认高频痛点，再拆 MVP 替代方案：目标用户、现有 SaaS 不好用点、愿付费场景、可 1 周验证的最小功能。",
-      "opportunity": {
-        "type": "用户吐槽/开发机会",
-        "complaintHits": [
-          "hate"
-        ],
-        "contextHits": [
-          "agent",
-          "ai"
-        ]
-      }
-    },
-    {
       "title": "Anthropic首席执行官达里奥·阿莫德伊呼吁放缓人工智能的发展步伐",
       "url": "https://www.bbc.com/news/articles/c14dpgm0rg4o",
       "source": "Buzzing HN Front",
@@ -1460,46 +1464,6 @@
       }
     },
     {
-      "title": "Why Vibe-Coded Products Start to Feel the Same",
-      "url": "https://dev.to/mmm69e885441d77/why-vibe-coded-products-start-to-feel-the-same-41g4",
-      "source": "Dev.to",
-      "summary": "Vibe coding solved a surprisingly large part of the “can I build this?” problem. That is a good...",
-      "publishedAt": "2026-09-09T02:17:53Z",
-      "rawSignal": 11.2,
-      "id": "b241c729d961",
-      "score": 62,
-      "scoreBreakdown": {
-        "signal": 14,
-        "relevance": 10,
-        "contentFit": 18,
-        "business": 12,
-        "recency": 7
-      },
-      "tags": [
-        "coding",
-        "用户吐槽",
-        "开发机会"
-      ],
-      "angles": [
-        "用户吐槽 → 开发机会",
-        "AI 工具/工作流拆解",
-        "AI 编程提效实测",
-        "小红书卡片：痛点-工具-结果"
-      ],
-      "recommendation": "用户吐槽/开发机会",
-      "selectionReason": "入选原因：来源 Dev.to 的信号强度 14/25；用户负反馈：problem；AI/工具关键词：coding；热点场景：coding。",
-      "nextAction": "建议：把这条负反馈当作开发机会处理，先追原帖评论确认高频痛点，再拆 MVP 替代方案：目标用户、现有 SaaS 不好用点、愿付费场景、可 1 周验证的最小功能。",
-      "opportunity": {
-        "type": "用户吐槽/开发机会",
-        "complaintHits": [
-          "problem"
-        ],
-        "contextHits": [
-          "product"
-        ]
-      }
-    },
-    {
       "title": "Your prompt system has no tests, and that is why you cannot tell it is broken",
       "url": "https://dev.to/latifox/your-prompt-system-has-no-tests-and-that-is-why-you-cannot-tell-it-is-broken-10bh",
       "source": "Dev.to",
@@ -1538,6 +1502,46 @@
           "ai"
         ]
       }
+    },
+    {
+      "title": "Why Vibe-Coded Products Start to Feel the Same",
+      "url": "https://dev.to/mmm69e885441d77/why-vibe-coded-products-start-to-feel-the-same-41g4",
+      "source": "Dev.to",
+      "summary": "Vibe coding solved a surprisingly large part of the “can I build this?” problem. That is a good...",
+      "publishedAt": "2026-09-09T02:17:53Z",
+      "rawSignal": 11.2,
+      "id": "b241c729d961",
+      "score": 61,
+      "scoreBreakdown": {
+        "signal": 14,
+        "relevance": 10,
+        "contentFit": 18,
+        "business": 12,
+        "recency": 7
+      },
+      "tags": [
+        "coding",
+        "用户吐槽",
+        "开发机会"
+      ],
+      "angles": [
+        "用户吐槽 → 开发机会",
+        "AI 工具/工作流拆解",
+        "AI 编程提效实测",
+        "小红书卡片：痛点-工具-结果"
+      ],
+      "recommendation": "用户吐槽/开发机会",
+      "selectionReason": "入选原因：来源 Dev.to 的信号强度 14/25；用户负反馈：problem；AI/工具关键词：coding；热点场景：coding。",
+      "nextAction": "建议：把这条负反馈当作开发机会处理，先追原帖评论确认高频痛点，再拆 MVP 替代方案：目标用户、现有 SaaS 不好用点、愿付费场景、可 1 周验证的最小功能。",
+      "opportunity": {
+        "type": "用户吐槽/开发机会",
+        "complaintHits": [
+          "problem"
+        ],
+        "contextHits": [
+          "product"
+        ]
+      }
     }
   ],
   "byAction": {
@@ -1548,11 +1552,11 @@
         "source": "Hacker News",
         "summary": "The worst spam emails: iLands AI agent hustle",
         "publishedAt": "2026-09-12T11:13:38Z",
-        "rawSignal": 20.666666666666668,
+        "rawSignal": 22.125,
         "id": "8b8c97af70ad",
-        "score": 79,
+        "score": 81,
         "scoreBreakdown": {
-          "signal": 24,
+          "signal": 25,
           "relevance": 16,
           "contentFit": 18,
           "business": 12,
@@ -1571,7 +1575,7 @@
           "小红书卡片：痛点-工具-结果"
         ],
         "recommendation": "用户吐槽/开发机会",
-        "selectionReason": "入选原因：来源 Hacker News 的信号强度 24/25；用户负反馈：worst；AI/工具关键词：ai、agent；热点场景：agent、email。",
+        "selectionReason": "入选原因：来源 Hacker News 的信号强度 25/25；用户负反馈：worst；AI/工具关键词：ai、agent；热点场景：agent、email。",
         "nextAction": "建议：把这条负反馈当作开发机会处理，先追原帖评论确认高频痛点，再拆 MVP 替代方案：目标用户、现有 SaaS 不好用点、愿付费场景、可 1 周验证的最小功能。",
         "opportunity": {
           "type": "用户吐槽/开发机会",
@@ -1669,6 +1673,49 @@
         }
       },
       {
+        "title": "The AI receptionist market is solving the wrong problem",
+        "url": "https://dev.to/autor_tech/the-ai-receptionist-market-is-solving-the-wrong-problem-3f4a",
+        "source": "Dev.to",
+        "summary": "Every AI voice startup in healthcare is demoing the same thing: \"Listen to how natural it sounds!\"...",
+        "publishedAt": "2026-09-08T03:13:58Z",
+        "rawSignal": 8,
+        "id": "63c7013ec8f3",
+        "score": 70,
+        "scoreBreakdown": {
+          "signal": 11,
+          "relevance": 19,
+          "contentFit": 18,
+          "business": 15,
+          "recency": 7
+        },
+        "tags": [
+          "ai",
+          "voice",
+          "startup",
+          "health",
+          "用户吐槽",
+          "开发机会"
+        ],
+        "angles": [
+          "用户吐槽 → 开发机会",
+          "AI 工具/工作流拆解",
+          "独立开发者/增长案例",
+          "小红书卡片：痛点-工具-结果"
+        ],
+        "recommendation": "用户吐槽/开发机会",
+        "selectionReason": "入选原因：来源 Dev.to 的信号强度 11/25；用户负反馈：problem；AI/工具关键词：ai、voice；独立开发/增长关键词：startup。",
+        "nextAction": "建议：把这条负反馈当作开发机会处理，先追原帖评论确认高频痛点，再拆 MVP 替代方案：目标用户、现有 SaaS 不好用点、愿付费场景、可 1 周验证的最小功能。",
+        "opportunity": {
+          "type": "用户吐槽/开发机会",
+          "complaintHits": [
+            "problem"
+          ],
+          "contextHits": [
+            "ai"
+          ]
+        }
+      },
+      {
         "title": "用ChatGPT编写氛围代码简直痛苦至极，但我居然完成了一个项目",
         "url": "https://old.reddit.com/r/SideProject/comments/1qxqphw/vibe_coding_with_chatgpt_is_painfully_hard_but_i/",
         "source": "Buzzing SideProject",
@@ -1705,6 +1752,45 @@
           "complaintHits": [
             "painfully hard",
             "痛苦"
+          ],
+          "contextHits": [
+            "ai"
+          ]
+        }
+      },
+      {
+        "title": "Anthropic CEO Says It's Time to Slow AI Model Advances",
+        "url": "https://www.bloomberg.com/news/articles/2026-09-12/anthropic-ceo-says-it-s-time-to-slow-pace-of-improving-ai-models",
+        "source": "Hacker News",
+        "summary": "Anthropic CEO Says It's Time to Slow AI Model Advances",
+        "publishedAt": "2026-09-12T18:07:07Z",
+        "rawSignal": 20.041666666666664,
+        "id": "a9df7af2fde6",
+        "score": 67,
+        "scoreBreakdown": {
+          "signal": 23,
+          "relevance": 8,
+          "contentFit": 14,
+          "business": 12,
+          "recency": 10
+        },
+        "tags": [
+          "ai",
+          "用户吐槽",
+          "开发机会"
+        ],
+        "angles": [
+          "用户吐槽 → 开发机会",
+          "AI 工具/工作流拆解",
+          "小红书卡片：痛点-工具-结果"
+        ],
+        "recommendation": "用户吐槽/开发机会",
+        "selectionReason": "入选原因：来源 Hacker News 的信号强度 23/25；用户负反馈：slow；AI/工具关键词：ai。",
+        "nextAction": "建议：把这条负反馈当作开发机会处理，先追原帖评论确认高频痛点，再拆 MVP 替代方案：目标用户、现有 SaaS 不好用点、愿付费场景、可 1 周验证的最小功能。",
+        "opportunity": {
+          "type": "用户吐槽/开发机会",
+          "complaintHits": [
+            "slow"
           ],
           "contextHits": [
             "ai"
@@ -1795,86 +1881,6 @@
         }
       },
       {
-        "title": "Anthropic CEO Says It's Time to Slow AI Model Advances",
-        "url": "https://www.bloomberg.com/news/articles/2026-09-12/anthropic-ceo-says-it-s-time-to-slow-pace-of-improving-ai-models",
-        "source": "Hacker News",
-        "summary": "Anthropic CEO Says It's Time to Slow AI Model Advances",
-        "publishedAt": "2026-09-12T18:07:07Z",
-        "rawSignal": 18.333333333333336,
-        "id": "a9df7af2fde6",
-        "score": 65,
-        "scoreBreakdown": {
-          "signal": 21,
-          "relevance": 8,
-          "contentFit": 14,
-          "business": 12,
-          "recency": 10
-        },
-        "tags": [
-          "ai",
-          "用户吐槽",
-          "开发机会"
-        ],
-        "angles": [
-          "用户吐槽 → 开发机会",
-          "AI 工具/工作流拆解",
-          "小红书卡片：痛点-工具-结果"
-        ],
-        "recommendation": "用户吐槽/开发机会",
-        "selectionReason": "入选原因：来源 Hacker News 的信号强度 21/25；用户负反馈：slow；AI/工具关键词：ai。",
-        "nextAction": "建议：把这条负反馈当作开发机会处理，先追原帖评论确认高频痛点，再拆 MVP 替代方案：目标用户、现有 SaaS 不好用点、愿付费场景、可 1 周验证的最小功能。",
-        "opportunity": {
-          "type": "用户吐槽/开发机会",
-          "complaintHits": [
-            "slow"
-          ],
-          "contextHits": [
-            "ai"
-          ]
-        }
-      },
-      {
-        "title": "Anthropic reveals rogue AI agents hate CAPTCHAs",
-        "url": "https://techcrunch.com/2026/09/10/anthropic-reveals-rogue-ai-agents-hate-captchas-just-like-you/",
-        "source": "Hacker News",
-        "summary": "Anthropic reveals rogue AI agents hate CAPTCHAs",
-        "publishedAt": "2026-09-12T04:55:29Z",
-        "rawSignal": 8.166666666666666,
-        "id": "4a1ed4173818",
-        "score": 65,
-        "scoreBreakdown": {
-          "signal": 11,
-          "relevance": 14,
-          "contentFit": 18,
-          "business": 12,
-          "recency": 10
-        },
-        "tags": [
-          "ai",
-          "agent",
-          "用户吐槽",
-          "开发机会"
-        ],
-        "angles": [
-          "用户吐槽 → 开发机会",
-          "AI 工具/工作流拆解",
-          "小红书卡片：痛点-工具-结果"
-        ],
-        "recommendation": "用户吐槽/开发机会",
-        "selectionReason": "入选原因：来源 Hacker News 的信号强度 11/25；用户负反馈：hate；AI/工具关键词：ai、agent；热点场景：agent。",
-        "nextAction": "建议：把这条负反馈当作开发机会处理，先追原帖评论确认高频痛点，再拆 MVP 替代方案：目标用户、现有 SaaS 不好用点、愿付费场景、可 1 周验证的最小功能。",
-        "opportunity": {
-          "type": "用户吐槽/开发机会",
-          "complaintHits": [
-            "hate"
-          ],
-          "contextHits": [
-            "agent",
-            "ai"
-          ]
-        }
-      },
-      {
         "title": "Anthropic首席执行官达里奥·阿莫德伊呼吁放缓人工智能的发展步伐",
         "url": "https://www.bbc.com/news/articles/c14dpgm0rg4o",
         "source": "Buzzing HN Front",
@@ -1953,46 +1959,6 @@
         }
       },
       {
-        "title": "Why Vibe-Coded Products Start to Feel the Same",
-        "url": "https://dev.to/mmm69e885441d77/why-vibe-coded-products-start-to-feel-the-same-41g4",
-        "source": "Dev.to",
-        "summary": "Vibe coding solved a surprisingly large part of the “can I build this?” problem. That is a good...",
-        "publishedAt": "2026-09-09T02:17:53Z",
-        "rawSignal": 11.2,
-        "id": "b241c729d961",
-        "score": 62,
-        "scoreBreakdown": {
-          "signal": 14,
-          "relevance": 10,
-          "contentFit": 18,
-          "business": 12,
-          "recency": 7
-        },
-        "tags": [
-          "coding",
-          "用户吐槽",
-          "开发机会"
-        ],
-        "angles": [
-          "用户吐槽 → 开发机会",
-          "AI 工具/工作流拆解",
-          "AI 编程提效实测",
-          "小红书卡片：痛点-工具-结果"
-        ],
-        "recommendation": "用户吐槽/开发机会",
-        "selectionReason": "入选原因：来源 Dev.to 的信号强度 14/25；用户负反馈：problem；AI/工具关键词：coding；热点场景：coding。",
-        "nextAction": "建议：把这条负反馈当作开发机会处理，先追原帖评论确认高频痛点，再拆 MVP 替代方案：目标用户、现有 SaaS 不好用点、愿付费场景、可 1 周验证的最小功能。",
-        "opportunity": {
-          "type": "用户吐槽/开发机会",
-          "complaintHits": [
-            "problem"
-          ],
-          "contextHits": [
-            "product"
-          ]
-        }
-      },
-      {
         "title": "Your prompt system has no tests, and that is why you cannot tell it is broken",
         "url": "https://dev.to/latifox/your-prompt-system-has-no-tests-and-that-is-why-you-cannot-tell-it-is-broken-10bh",
         "source": "Dev.to",
@@ -2029,6 +1995,46 @@
           ],
           "contextHits": [
             "ai"
+          ]
+        }
+      },
+      {
+        "title": "Why Vibe-Coded Products Start to Feel the Same",
+        "url": "https://dev.to/mmm69e885441d77/why-vibe-coded-products-start-to-feel-the-same-41g4",
+        "source": "Dev.to",
+        "summary": "Vibe coding solved a surprisingly large part of the “can I build this?” problem. That is a good...",
+        "publishedAt": "2026-09-09T02:17:53Z",
+        "rawSignal": 11.2,
+        "id": "b241c729d961",
+        "score": 61,
+        "scoreBreakdown": {
+          "signal": 14,
+          "relevance": 10,
+          "contentFit": 18,
+          "business": 12,
+          "recency": 7
+        },
+        "tags": [
+          "coding",
+          "用户吐槽",
+          "开发机会"
+        ],
+        "angles": [
+          "用户吐槽 → 开发机会",
+          "AI 工具/工作流拆解",
+          "AI 编程提效实测",
+          "小红书卡片：痛点-工具-结果"
+        ],
+        "recommendation": "用户吐槽/开发机会",
+        "selectionReason": "入选原因：来源 Dev.to 的信号强度 14/25；用户负反馈：problem；AI/工具关键词：coding；热点场景：coding。",
+        "nextAction": "建议：把这条负反馈当作开发机会处理，先追原帖评论确认高频痛点，再拆 MVP 替代方案：目标用户、现有 SaaS 不好用点、愿付费场景、可 1 周验证的最小功能。",
+        "opportunity": {
+          "type": "用户吐槽/开发机会",
+          "complaintHits": [
+            "problem"
+          ],
+          "contextHits": [
+            "product"
           ]
         }
       },
@@ -2214,7 +2220,7 @@
           "relevance": 8,
           "contentFit": 9,
           "business": 16,
-          "recency": 9
+          "recency": 8
         },
         "tags": [
           "saas",
@@ -2353,12 +2359,12 @@
         "nextAction": "建议：先做 30 分钟资料核验，拆成“痛点 → 现有方案 → 商业化机会 → 可复制工作流”，再决定是否写公众号深度文。"
       },
       {
-        "title": "tigerless-labs/agent-memory ★1159",
+        "title": "tigerless-labs/agent-memory ★1162",
         "url": "https://github.com/tigerless-labs/agent-memory",
         "source": "GitHub Trending Search",
         "summary": "Long-term memory runtime for AI agents — plain Markdown as the source of truth, local ranked retrieval, and an independent sleep-time Manage layer. Claude Code and Codex share one store. No API key.",
         "publishedAt": "2026-09-01T21:52:29Z",
-        "rawSignal": 34.515663913815345,
+        "rawSignal": 34.52463771782759,
         "id": "9bb95970cefc",
         "score": 70,
         "scoreBreakdown": {
@@ -2518,12 +2524,12 @@
         "nextAction": "建议：做一张小红书卡片，标题突出具体人群和结果；同时找 2-3 个同类工具做实测对比。"
       },
       {
-        "title": "okf-memory/okf-agent-memory ★599",
+        "title": "okf-memory/okf-agent-memory ★604",
         "url": "https://github.com/okf-memory/okf-agent-memory",
         "source": "GitHub Trending Search",
         "summary": "Git-native persistent memory for AI coding agents. Implements Google OKF v0.2 with sub-300µs in-memory BM25 search, embedded MCP server, and progressive disclosure. Slashes token bloat by 80% with zero external databases or dependencies. Built in pure Go.",
         "publishedAt": "2026-09-05T21:26:04Z",
-        "rawSignal": 32.22521000306915,
+        "rawSignal": 32.254042997219756,
         "id": "f31be0c625cb",
         "score": 66,
         "scoreBreakdown": {
@@ -2581,12 +2587,12 @@
         "nextAction": "建议：做一张小红书卡片，标题突出具体人群和结果；同时找 2-3 个同类工具做实测对比。"
       },
       {
-        "title": "Alexwtlf/agentic-product-demo ★236",
+        "title": "Alexwtlf/agentic-product-demo ★237",
         "url": "https://github.com/Alexwtlf/agentic-product-demo",
         "source": "GitHub Trending Search",
         "summary": "Create polished product demo videos with AI coding agents and Remotion. The UI is code, not a screen recording.",
         "publishedAt": "2026-08-24T18:38:19Z",
-        "rawSignal": 28.997986768080832,
+        "rawSignal": 29.012615656452095,
         "id": "2eb4217d712d",
         "score": 65,
         "scoreBreakdown": {
@@ -2799,12 +2805,12 @@
         "nextAction": "建议：先放入素材池追踪 24-48 小时，观察是否有二次传播、竞品跟进或用户评论痛点。"
       },
       {
-        "title": "Station-Sciences/bot-crossing ★500",
+        "title": "Station-Sciences/bot-crossing ★502",
         "url": "https://github.com/Station-Sciences/bot-crossing",
         "source": "GitHub Trending Search",
         "summary": "A video game for AI agents. Created by Jarren Rocks",
         "publishedAt": "2026-09-01T19:56:46Z",
-        "rawSignal": 31.598701806937967,
+        "rawSignal": 31.61254388044742,
         "id": "1798f8da9929",
         "score": 61,
         "scoreBreakdown": {
@@ -2828,12 +2834,12 @@
         "nextAction": "建议：先放入素材池追踪 24-48 小时，观察是否有二次传播、竞品跟进或用户评论痛点。"
       },
       {
-        "title": "i-am-manware/Manware-s-AI-Learning-Toolkit ★386",
+        "title": "i-am-manware/Manware-s-AI-Learning-Toolkit ★387",
         "url": "https://github.com/i-am-manware/Manware-s-AI-Learning-Toolkit",
         "source": "GitHub Trending Search",
         "summary": "An AI toolkit that turns agents into teachers rather than code yapping machines",
         "publishedAt": "2026-09-05T16:46:07Z",
-        "rawSignal": 30.70168772015129,
+        "rawSignal": 30.710653804753658,
         "id": "086970f72914",
         "score": 61,
         "scoreBreakdown": {
@@ -2887,12 +2893,12 @@
         "nextAction": "建议：先放入素材池追踪 24-48 小时，观察是否有二次传播、竞品跟进或用户评论痛点。"
       },
       {
-        "title": "Atomburstofficial/geiger ★113",
+        "title": "Atomburstofficial/geiger ★114",
         "url": "https://github.com/Atomburstofficial/geiger",
         "source": "GitHub Trending Search",
         "summary": "A Geiger counter for AI agents — one read-only command that inventories every agent, MCP server, plugin, and AI extension on a machine",
         "publishedAt": "2026-09-06T17:45:50Z",
-        "rawSignal": 26.45523881069178,
+        "rawSignal": 26.485582722828894,
         "id": "74125c188853",
         "score": 61,
         "scoreBreakdown": {
@@ -2949,12 +2955,12 @@
         "nextAction": "建议：先放入素材池追踪 24-48 小时，观察是否有二次传播、竞品跟进或用户评论痛点。"
       },
       {
-        "title": "songs-aaa/shared-memory-vault ★92",
+        "title": "songs-aaa/shared-memory-vault ★93",
         "url": "https://github.com/songs-aaa/shared-memory-vault",
         "source": "GitHub Trending Search",
         "summary": "A memory governance engine for multi-agent cloud knowledge bases — one knowledge base shared by every agent and every device, with consistency guaranteed. Pure Markdown, nine governance automations, zero dependencies.",
         "publishedAt": "2026-09-05T05:15:51Z",
-        "rawSignal": 25.747863588431482,
+        "rawSignal": 25.785022828797587,
         "id": "76045ccb3c69",
         "score": 60,
         "scoreBreakdown": {
@@ -3036,12 +3042,12 @@
         "nextAction": "建议：先放入素材池追踪 24-48 小时，观察是否有二次传播、竞品跟进或用户评论痛点。"
       },
       {
-        "title": "ZJU-REAL/Easel ★907",
+        "title": "ZJU-REAL/Easel ★911",
         "url": "https://github.com/ZJU-REAL/Easel",
         "source": "GitHub Trending Search",
         "summary": "An open-source AI agent for social media — discover trends, create content, publish everywhere, and learn what works across Xiaohongshu, Douyin, Zhihu, Bilibili, and more.🎨一个开源的 AI 社交媒体智能体——发现热点趋势、创作内容、一键发布至各大平台，并学习分析哪些内容真正有效，覆盖小红书、抖音、知乎、哔哩哔哩等平台。",
         "publishedAt": "2026-08-28T02:22:27Z",
-        "rawSignal": 33.66468678816868,
+        "rawSignal": 33.67995870662733,
         "id": "01f63dbd63f2",
         "score": 59,
         "scoreBreakdown": {
@@ -3097,12 +3103,12 @@
         "nextAction": "建议：先放入素材池追踪 24-48 小时，观察是否有二次传播、竞品跟进或用户评论痛点。"
       },
       {
-        "title": "noskillish/bankmcp ★199",
+        "title": "noskillish/bankmcp ★200",
         "url": "https://github.com/noskillish/bankmcp",
         "source": "GitHub Trending Search",
         "summary": "BankMCP™: your AI can now read your bank. Self-hosted, read-only MCP server for your own bank accounts via open banking (Enable Banking). Standard MCP; tested with Claude and Ollama.",
         "publishedAt": "2026-09-07T09:06:03Z",
-        "rawSignal": 28.40823996531185,
+        "rawSignal": 28.425568459363912,
         "id": "6a000ece44ae",
         "score": 59,
         "scoreBreakdown": {
@@ -3278,7 +3284,7 @@
         "nextAction": "建议：先放入素材池追踪 24-48 小时，观察是否有二次传播、竞品跟进或用户评论痛点。"
       },
       {
-        "title": "Nanako0129/sepia ★2569",
+        "title": "Nanako0129/sepia ★2570",
         "url": "https://github.com/Nanako0129/sepia",
         "source": "GitHub Trending Search",
         "summary": "De-AI writing skill for any Agent Skills-compatible agent (77+ via the Skills CLI), with native plugins for Claude Code, Codex, Grok Build, and Antigravity. Narrative-architecture repair for fiction, venue-matched rules for professional prose. Based on StoryScope (arXiv:2604.03136).",
@@ -3307,12 +3313,12 @@
         "nextAction": "建议：先放入素材池追踪 24-48 小时，观察是否有二次传播、竞品跟进或用户评论痛点。"
       },
       {
-        "title": "BoardUI/boardui ★416",
+        "title": "BoardUI/boardui ★417",
         "url": "https://github.com/BoardUI/boardui",
         "source": "GitHub Trending Search",
         "summary": "React design system for agentic interfaces. Every free BoardUI component as source, with a working AI chat app on your own model key as the homepage.",
         "publishedAt": "2026-09-01T23:26:56Z",
-        "rawSignal": 30.96108843979006,
+        "rawSignal": 30.96941025420028,
         "id": "622c51ef7785",
         "score": 57,
         "scoreBreakdown": {
@@ -3365,7 +3371,7 @@
         "nextAction": "建议：先放入素材池追踪 24-48 小时，观察是否有二次传播、竞品跟进或用户评论痛点。"
       },
       {
-        "title": "MiniMaxAI/MiniMax-H3 ❤5188",
+        "title": "MiniMaxAI/MiniMax-H3 ❤5195",
         "url": "https://huggingface.co/MiniMaxAI/MiniMax-H3",
         "source": "Hugging Face Models",
         "summary": "image-text-to-video: minimax-h3, diffusers, safetensors, text-to-video, image-to-video, image-text-to-video, video-to-video, text-to-audio-video",
@@ -3542,7 +3548,7 @@
         "nextAction": "建议：先放入素材池追踪 24-48 小时，观察是否有二次传播、竞品跟进或用户评论痛点。"
       },
       {
-        "title": "openai/gpt-oss-20b ❤5025",
+        "title": "openai/gpt-oss-20b ❤5026",
         "url": "https://huggingface.co/openai/gpt-oss-20b",
         "source": "Hugging Face Models",
         "summary": "text-generation: transformers, safetensors, gpt_oss, text-generation, vllm, conversational, arxiv:2508.10925, license:apache-2.0",
@@ -3569,35 +3575,6 @@
         ],
         "recommendation": "快讯/素材池追踪",
         "selectionReason": "入选原因：来源 Hugging Face Models 的信号强度 25/25；AI/工具关键词：ai、llm、gpt。",
-        "nextAction": "建议：先放入素材池追踪 24-48 小时，观察是否有二次传播、竞品跟进或用户评论痛点。"
-      },
-      {
-        "title": "From AI Solutions to Shared Knowledge: Building an MCP for the Community",
-        "url": "https://dev.to/pascal_cescato_692b7a8a20/from-ai-solutions-to-shared-knowledge-building-an-mcp-for-the-community-6bk",
-        "source": "Dev.to",
-        "summary": "This is a submission for the Weekend Challenge: Generosity Edition Don't Just Ask AI. Give the...",
-        "publishedAt": "2026-09-07T03:34:19Z",
-        "rawSignal": 28,
-        "id": "3ea4f0eca9c4",
-        "score": 55,
-        "scoreBreakdown": {
-          "signal": 25,
-          "relevance": 6,
-          "contentFit": 14,
-          "business": 4,
-          "recency": 6
-        },
-        "tags": [
-          "ai",
-          "mcp"
-        ],
-        "angles": [
-          "AI 工具/工作流拆解",
-          "MCP 生态应用清单",
-          "小红书卡片：痛点-工具-结果"
-        ],
-        "recommendation": "快讯/素材池追踪",
-        "selectionReason": "入选原因：来源 Dev.to 的信号强度 25/25；AI/工具关键词：ai；热点场景：mcp。",
         "nextAction": "建议：先放入素材池追踪 24-48 小时，观察是否有二次传播、竞品跟进或用户评论痛点。"
       },
       {
@@ -3694,36 +3671,7 @@
     ],
     "观察名单": [
       {
-        "title": "RankSpotAI/awesome-seo-mcp ★77",
-        "url": "https://github.com/RankSpotAI/awesome-seo-mcp",
-        "source": "GitHub Trending Search",
-        "summary": "A curated list of MCP servers for SEO. Search Console, keywords, backlinks, crawling, SERPs and AI search visibility, verified with install details and auth requirements.",
-        "publishedAt": "2026-09-06T12:32:34Z",
-        "rawSignal": 25.136756821523843,
-        "id": "ff51059e9d97",
-        "score": 55,
-        "scoreBreakdown": {
-          "signal": 25,
-          "relevance": 6,
-          "contentFit": 14,
-          "business": 4,
-          "recency": 6
-        },
-        "tags": [
-          "ai",
-          "mcp"
-        ],
-        "angles": [
-          "AI 工具/工作流拆解",
-          "MCP 生态应用清单",
-          "小红书卡片：痛点-工具-结果"
-        ],
-        "recommendation": "观察名单",
-        "selectionReason": "入选原因：来源 GitHub Trending Search 的信号强度 25/25；AI/工具关键词：ai；热点场景：mcp。",
-        "nextAction": "建议：先放入素材池追踪 24-48 小时，观察是否有二次传播、竞品跟进或用户评论痛点。"
-      },
-      {
-        "title": "Lightricks/LTX-2.5 ❤3594",
+        "title": "Lightricks/LTX-2.5 ❤3603",
         "url": "https://huggingface.co/Lightricks/LTX-2.5",
         "source": "Hugging Face Models",
         "summary": "image-to-video: diffusion-single-file, image-to-video, text-to-video, video-to-video, image-text-to-video, audio-to-video, text-to-audio, video-to-audio",
@@ -3751,31 +3699,32 @@
         "nextAction": "建议：先放入素材池追踪 24-48 小时，观察是否有二次传播、竞品跟进或用户评论痛点。"
       },
       {
-        "title": "I let AI write 100% of my code for 30 days. Here's what broke.",
-        "url": "https://dev.to/infoinlet1/i-let-ai-write-100-of-my-code-for-30-days-heres-what-broke-1aa0",
+        "title": "From AI Solutions to Shared Knowledge: Building an MCP for the Community",
+        "url": "https://dev.to/pascal_cescato_692b7a8a20/from-ai-solutions-to-shared-knowledge-building-an-mcp-for-the-community-6bk",
         "source": "Dev.to",
-        "summary": "Not \"AI-assisted.\" Not \"copilot suggestions I edited.\" I mean I made a rule: for 30 days, I don't...",
-        "publishedAt": "2026-09-09T09:08:18Z",
+        "summary": "This is a submission for the Weekend Challenge: Generosity Edition Don't Just Ask AI. Give the...",
+        "publishedAt": "2026-09-07T03:34:19Z",
         "rawSignal": 28,
-        "id": "6d51140d891a",
+        "id": "3ea4f0eca9c4",
         "score": 55,
         "scoreBreakdown": {
           "signal": 25,
-          "relevance": 8,
-          "contentFit": 10,
+          "relevance": 6,
+          "contentFit": 14,
           "business": 4,
-          "recency": 8
+          "recency": 6
         },
         "tags": [
           "ai",
-          "copilot"
+          "mcp"
         ],
         "angles": [
           "AI 工具/工作流拆解",
+          "MCP 生态应用清单",
           "小红书卡片：痛点-工具-结果"
         ],
         "recommendation": "观察名单",
-        "selectionReason": "入选原因：来源 Dev.to 的信号强度 25/25；AI/工具关键词：ai、copilot。",
+        "selectionReason": "入选原因：来源 Dev.to 的信号强度 25/25；AI/工具关键词：ai；热点场景：mcp。",
         "nextAction": "建议：先放入素材池追踪 24-48 小时，观察是否有二次传播、竞品跟进或用户评论痛点。"
       },
       {
@@ -3808,6 +3757,35 @@
         "nextAction": "建议：先放入素材池追踪 24-48 小时，观察是否有二次传播、竞品跟进或用户评论痛点。"
       },
       {
+        "title": "RankSpotAI/awesome-seo-mcp ★78",
+        "url": "https://github.com/RankSpotAI/awesome-seo-mcp",
+        "source": "GitHub Trending Search",
+        "summary": "A curated list of MCP servers for SEO. Search Console, keywords, backlinks, crawling, SERPs and AI search visibility, verified with install details and auth requirements.",
+        "publishedAt": "2026-09-06T12:32:34Z",
+        "rawSignal": 25.18101673032353,
+        "id": "ff51059e9d97",
+        "score": 54,
+        "scoreBreakdown": {
+          "signal": 25,
+          "relevance": 6,
+          "contentFit": 14,
+          "business": 4,
+          "recency": 5
+        },
+        "tags": [
+          "ai",
+          "mcp"
+        ],
+        "angles": [
+          "AI 工具/工作流拆解",
+          "MCP 生态应用清单",
+          "小红书卡片：痛点-工具-结果"
+        ],
+        "recommendation": "观察名单",
+        "selectionReason": "入选原因：来源 GitHub Trending Search 的信号强度 25/25；AI/工具关键词：ai；热点场景：mcp。",
+        "nextAction": "建议：先放入素材池追踪 24-48 小时，观察是否有二次传播、竞品跟进或用户评论痛点。"
+      },
+      {
         "title": "neuronto/agentic-resource-discovery ★52",
         "url": "https://github.com/neuronto/agentic-resource-discovery",
         "source": "GitHub Trending Search",
@@ -3836,6 +3814,34 @@
         "recommendation": "观察名单",
         "selectionReason": "入选原因：来源 GitHub Trending Search 的信号强度 24/25；AI/工具关键词：agent；内容适配关键词：tool；热点场景：agent、mcp。",
         "nextAction": "建议：先放入素材池追踪 24-48 小时，观察是否有二次传播、竞品跟进或用户评论痛点。"
+      },
+      {
+        "title": "I let AI write 100% of my code for 30 days. Here's what broke.",
+        "url": "https://dev.to/infoinlet1/i-let-ai-write-100-of-my-code-for-30-days-heres-what-broke-1aa0",
+        "source": "Dev.to",
+        "summary": "Not \"AI-assisted.\" Not \"copilot suggestions I edited.\" I mean I made a rule: for 30 days, I don't...",
+        "publishedAt": "2026-09-09T09:08:18Z",
+        "rawSignal": 28,
+        "id": "6d51140d891a",
+        "score": 54,
+        "scoreBreakdown": {
+          "signal": 25,
+          "relevance": 8,
+          "contentFit": 10,
+          "business": 4,
+          "recency": 7
+        },
+        "tags": [
+          "ai",
+          "copilot"
+        ],
+        "angles": [
+          "AI 工具/工作流拆解",
+          "小红书卡片：痛点-工具-结果"
+        ],
+        "recommendation": "观察名单",
+        "selectionReason": "入选原因：来源 Dev.to 的信号强度 25/25；AI/工具关键词：ai、copilot。",
+        "nextAction": "建议：暂不投入写作，只保留为观察名单；如果后续出现更多讨论或真实用户案例再升级。"
       },
       {
         "title": "Nexpath 评测：AI 提示语质量层能否让 AI 编程更安全？",
@@ -3925,12 +3931,12 @@
         "nextAction": "建议：先放入素材池追踪 24-48 小时，观察是否有二次传播、竞品跟进或用户评论痛点。"
       },
       {
-        "title": "MaxHu-xuan/task-state-guard ★314",
+        "title": "MaxHu-xuan/task-state-guard ★318",
         "url": "https://github.com/MaxHu-xuan/task-state-guard",
         "source": "GitHub Trending Search",
         "summary": "Reconcile stuck AI-agent tasks after restarts and timeouts. Preview SQLite changes, close stale delivery states, and never guess success.",
         "publishedAt": "2026-08-23T07:10:14Z",
-        "rawSignal": 29.986484430316803,
+        "rawSignal": 30.030325464457448,
         "id": "fa4500c64723",
         "score": 53,
         "scoreBreakdown": {
@@ -3953,12 +3959,12 @@
         "nextAction": "建议：先放入素材池追踪 24-48 小时，观察是否有二次传播、竞品跟进或用户评论痛点。"
       },
       {
-        "title": "jzjzzzzzzz/agent-me ★236",
+        "title": "jzjzzzzzzz/agent-me ★240",
         "url": "https://github.com/jzjzzzzzzz/agent-me",
         "source": "GitHub Trending Search",
         "summary": "Distill your knowledge, memories, and decisions into an open-source, inspectable AI Agent Twin.",
         "publishedAt": "2026-08-27T04:08:50Z",
-        "rawSignal": 28.997986768080832,
+        "rawSignal": 29.056136340598947,
         "id": "dd9dba9cdb7c",
         "score": 53,
         "scoreBreakdown": {
@@ -4009,12 +4015,12 @@
         "nextAction": "建议：先放入素材池追踪 24-48 小时，观察是否有二次传播、竞品跟进或用户评论痛点。"
       },
       {
-        "title": "2akouwu/reverify ★1175",
+        "title": "2akouwu/reverify ★1178",
         "url": "https://github.com/2akouwu/reverify",
         "source": "GitHub Trending Search",
         "summary": "Stop your AI from making things up — it proposes, deterministic tools decide, every claim checked against ground truth with evidence. Grounded facts and context survive resets. Reverse engineering is the proving ground. MCP server + CLI.",
         "publishedAt": "2026-08-31T01:02:18Z",
-        "rawSignal": 34.56325857392096,
+        "rawSignal": 34.57211044076071,
         "id": "f1e3498274d1",
         "score": 53,
         "scoreBreakdown": {
@@ -4159,8 +4165,8 @@
     ]
   },
   "sourceStats": {
-    "Hacker News": 8,
-    "Dev.to": 23,
+    "Hacker News": 7,
+    "Dev.to": 24,
     "GitHub Trending Search": 34,
     "Buzzing SideProject": 3,
     "Buzzing Product Hunt": 3,
@@ -4243,12 +4249,12 @@
           "nextAction": "建议：做一张小红书卡片，标题突出具体人群和结果；同时找 2-3 个同类工具做实测对比。"
         },
         {
-          "title": "tigerless-labs/agent-memory ★1159",
+          "title": "tigerless-labs/agent-memory ★1162",
           "url": "https://github.com/tigerless-labs/agent-memory",
           "source": "GitHub Trending Search",
           "summary": "Long-term memory runtime for AI agents — plain Markdown as the source of truth, local ranked retrieval, and an independent sleep-time Manage layer. Claude Code and Codex share one store. No API key.",
           "publishedAt": "2026-09-01T21:52:29Z",
-          "rawSignal": 34.515663913815345,
+          "rawSignal": 34.52463771782759,
           "id": "9bb95970cefc",
           "score": 70,
           "scoreBreakdown": {
@@ -4307,12 +4313,12 @@
           "nextAction": "建议：先做 30 分钟资料核验，拆成“痛点 → 现有方案 → 商业化机会 → 可复制工作流”，再决定是否写公众号深度文。"
         },
         {
-          "title": "okf-memory/okf-agent-memory ★599",
+          "title": "okf-memory/okf-agent-memory ★604",
           "url": "https://github.com/okf-memory/okf-agent-memory",
           "source": "GitHub Trending Search",
           "summary": "Git-native persistent memory for AI coding agents. Implements Google OKF v0.2 with sub-300µs in-memory BM25 search, embedded MCP server, and progressive disclosure. Slashes token bloat by 80% with zero external databases or dependencies. Built in pure Go.",
           "publishedAt": "2026-09-05T21:26:04Z",
-          "rawSignal": 32.22521000306915,
+          "rawSignal": 32.254042997219756,
           "id": "f31be0c625cb",
           "score": 66,
           "scoreBreakdown": {
@@ -4342,7 +4348,7 @@
     },
     {
       "source": "Dev.to",
-      "count": 23,
+      "count": 24,
       "averageScore": 61,
       "items": [
         {
@@ -4429,6 +4435,49 @@
           }
         },
         {
+          "title": "The AI receptionist market is solving the wrong problem",
+          "url": "https://dev.to/autor_tech/the-ai-receptionist-market-is-solving-the-wrong-problem-3f4a",
+          "source": "Dev.to",
+          "summary": "Every AI voice startup in healthcare is demoing the same thing: \"Listen to how natural it sounds!\"...",
+          "publishedAt": "2026-09-08T03:13:58Z",
+          "rawSignal": 8,
+          "id": "63c7013ec8f3",
+          "score": 70,
+          "scoreBreakdown": {
+            "signal": 11,
+            "relevance": 19,
+            "contentFit": 18,
+            "business": 15,
+            "recency": 7
+          },
+          "tags": [
+            "ai",
+            "voice",
+            "startup",
+            "health",
+            "用户吐槽",
+            "开发机会"
+          ],
+          "angles": [
+            "用户吐槽 → 开发机会",
+            "AI 工具/工作流拆解",
+            "独立开发者/增长案例",
+            "小红书卡片：痛点-工具-结果"
+          ],
+          "recommendation": "用户吐槽/开发机会",
+          "selectionReason": "入选原因：来源 Dev.to 的信号强度 11/25；用户负反馈：problem；AI/工具关键词：ai、voice；独立开发/增长关键词：startup。",
+          "nextAction": "建议：把这条负反馈当作开发机会处理，先追原帖评论确认高频痛点，再拆 MVP 替代方案：目标用户、现有 SaaS 不好用点、愿付费场景、可 1 周验证的最小功能。",
+          "opportunity": {
+            "type": "用户吐槽/开发机会",
+            "complaintHits": [
+              "problem"
+            ],
+            "contextHits": [
+              "ai"
+            ]
+          }
+        },
+        {
           "title": "I Made Claude Code Prove Billing End-to-End Before I Let It Ship",
           "url": "https://dev.to/indierob_/i-made-claude-code-prove-billing-end-to-end-before-i-let-it-ship-2h9d",
           "source": "Dev.to",
@@ -4500,55 +4549,12 @@
               "ai"
             ]
           }
-        },
-        {
-          "title": "AI Coding Is Getting Expensive: How Developers Can Stop Burning Tokens",
-          "url": "https://dev.to/robertadam987_/ai-coding-is-getting-expensive-how-developers-can-stop-burning-tokens-491g",
-          "source": "Dev.to",
-          "summary": "AI coding tools are getting ridiculously good. You can open a project, describe a feature, and let...",
-          "publishedAt": "2026-09-08T10:07:27Z",
-          "rawSignal": 9.8,
-          "id": "293ac2cdb5c9",
-          "score": 66,
-          "scoreBreakdown": {
-            "signal": 13,
-            "relevance": 14,
-            "contentFit": 20,
-            "business": 12,
-            "recency": 7
-          },
-          "tags": [
-            "ai",
-            "coding",
-            "tool",
-            "用户吐槽",
-            "开发机会"
-          ],
-          "angles": [
-            "用户吐槽 → 开发机会",
-            "AI 工具/工作流拆解",
-            "AI 编程提效实测",
-            "小红书卡片：痛点-工具-结果"
-          ],
-          "recommendation": "用户吐槽/开发机会",
-          "selectionReason": "入选原因：来源 Dev.to 的信号强度 13/25；用户负反馈：expensive；AI/工具关键词：ai、coding；内容适配关键词：tool。",
-          "nextAction": "建议：把这条负反馈当作开发机会处理，先追原帖评论确认高频痛点，再拆 MVP 替代方案：目标用户、现有 SaaS 不好用点、愿付费场景、可 1 周验证的最小功能。",
-          "opportunity": {
-            "type": "用户吐槽/开发机会",
-            "complaintHits": [
-              "expensive"
-            ],
-            "contextHits": [
-              "tool",
-              "ai"
-            ]
-          }
         }
       ]
     },
     {
       "source": "Hacker News",
-      "count": 8,
+      "count": 7,
       "averageScore": 61,
       "items": [
         {
@@ -4557,11 +4563,11 @@
           "source": "Hacker News",
           "summary": "The worst spam emails: iLands AI agent hustle",
           "publishedAt": "2026-09-12T11:13:38Z",
-          "rawSignal": 20.666666666666668,
+          "rawSignal": 22.125,
           "id": "8b8c97af70ad",
-          "score": 79,
+          "score": 81,
           "scoreBreakdown": {
-            "signal": 24,
+            "signal": 25,
             "relevance": 16,
             "contentFit": 18,
             "business": 12,
@@ -4580,7 +4586,7 @@
             "小红书卡片：痛点-工具-结果"
           ],
           "recommendation": "用户吐槽/开发机会",
-          "selectionReason": "入选原因：来源 Hacker News 的信号强度 24/25；用户负反馈：worst；AI/工具关键词：ai、agent；热点场景：agent、email。",
+          "selectionReason": "入选原因：来源 Hacker News 的信号强度 25/25；用户负反馈：worst；AI/工具关键词：ai、agent；热点场景：agent、email。",
           "nextAction": "建议：把这条负反馈当作开发机会处理，先追原帖评论确认高频痛点，再拆 MVP 替代方案：目标用户、现有 SaaS 不好用点、愿付费场景、可 1 周验证的最小功能。",
           "opportunity": {
             "type": "用户吐槽/开发机会",
@@ -4600,11 +4606,11 @@
           "source": "Hacker News",
           "summary": "Anthropic CEO Says It's Time to Slow AI Model Advances",
           "publishedAt": "2026-09-12T18:07:07Z",
-          "rawSignal": 18.333333333333336,
+          "rawSignal": 20.041666666666664,
           "id": "a9df7af2fde6",
-          "score": 65,
+          "score": 67,
           "scoreBreakdown": {
-            "signal": 21,
+            "signal": 23,
             "relevance": 8,
             "contentFit": 14,
             "business": 12,
@@ -4621,7 +4627,7 @@
             "小红书卡片：痛点-工具-结果"
           ],
           "recommendation": "用户吐槽/开发机会",
-          "selectionReason": "入选原因：来源 Hacker News 的信号强度 21/25；用户负反馈：slow；AI/工具关键词：ai。",
+          "selectionReason": "入选原因：来源 Hacker News 的信号强度 23/25；用户负反馈：slow；AI/工具关键词：ai。",
           "nextAction": "建议：把这条负反馈当作开发机会处理，先追原帖评论确认高频痛点，再拆 MVP 替代方案：目标用户、现有 SaaS 不好用点、愿付费场景、可 1 周验证的最小功能。",
           "opportunity": {
             "type": "用户吐槽/开发机会",
@@ -4629,47 +4635,6 @@
               "slow"
             ],
             "contextHits": [
-              "ai"
-            ]
-          }
-        },
-        {
-          "title": "Anthropic reveals rogue AI agents hate CAPTCHAs",
-          "url": "https://techcrunch.com/2026/09/10/anthropic-reveals-rogue-ai-agents-hate-captchas-just-like-you/",
-          "source": "Hacker News",
-          "summary": "Anthropic reveals rogue AI agents hate CAPTCHAs",
-          "publishedAt": "2026-09-12T04:55:29Z",
-          "rawSignal": 8.166666666666666,
-          "id": "4a1ed4173818",
-          "score": 65,
-          "scoreBreakdown": {
-            "signal": 11,
-            "relevance": 14,
-            "contentFit": 18,
-            "business": 12,
-            "recency": 10
-          },
-          "tags": [
-            "ai",
-            "agent",
-            "用户吐槽",
-            "开发机会"
-          ],
-          "angles": [
-            "用户吐槽 → 开发机会",
-            "AI 工具/工作流拆解",
-            "小红书卡片：痛点-工具-结果"
-          ],
-          "recommendation": "用户吐槽/开发机会",
-          "selectionReason": "入选原因：来源 Hacker News 的信号强度 11/25；用户负反馈：hate；AI/工具关键词：ai、agent；热点场景：agent。",
-          "nextAction": "建议：把这条负反馈当作开发机会处理，先追原帖评论确认高频痛点，再拆 MVP 替代方案：目标用户、现有 SaaS 不好用点、愿付费场景、可 1 周验证的最小功能。",
-          "opportunity": {
-            "type": "用户吐槽/开发机会",
-            "complaintHits": [
-              "hate"
-            ],
-            "contextHits": [
-              "agent",
               "ai"
             ]
           }
@@ -4744,6 +4709,51 @@
               "subscription"
             ]
           }
+        },
+        {
+          "title": "AI Tool That Analyzes Reddit Complaints and Suggests Micro-SaaS Ideas",
+          "url": "https://ideavault-alpha.vercel.app/",
+          "source": "Hacker News",
+          "summary": "AI Tool That Analyzes Reddit Complaints and Suggests Micro-SaaS Ideas",
+          "publishedAt": "2026-06-19T11:21:58Z",
+          "rawSignal": 8.25,
+          "id": "9bbb720cca23",
+          "score": 56,
+          "scoreBreakdown": {
+            "signal": 11,
+            "relevance": 12,
+            "contentFit": 17,
+            "business": 16,
+            "recency": 0
+          },
+          "tags": [
+            "ai",
+            "saas",
+            "tool",
+            "用户吐槽",
+            "开发机会"
+          ],
+          "angles": [
+            "用户吐槽 → 开发机会",
+            "AI 工具/工作流拆解",
+            "海外 SaaS 产品机会",
+            "小红书卡片：痛点-工具-结果"
+          ],
+          "recommendation": "用户吐槽/开发机会",
+          "selectionReason": "入选原因：来源 Hacker News 的信号强度 11/25；用户负反馈：complain、complaint；AI/工具关键词：ai；SaaS/商业关键词：saas。",
+          "nextAction": "建议：把这条负反馈当作开发机会处理，先追原帖评论确认高频痛点，再拆 MVP 替代方案：目标用户、现有 SaaS 不好用点、愿付费场景、可 1 周验证的最小功能。",
+          "opportunity": {
+            "type": "用户吐槽/开发机会",
+            "complaintHits": [
+              "complain",
+              "complaint"
+            ],
+            "contextHits": [
+              "saas",
+              "tool",
+              "ai"
+            ]
+          }
         }
       ]
     },
@@ -4753,7 +4763,7 @@
       "averageScore": 56,
       "items": [
         {
-          "title": "MiniMaxAI/MiniMax-H3 ❤5188",
+          "title": "MiniMaxAI/MiniMax-H3 ❤5195",
           "url": "https://huggingface.co/MiniMaxAI/MiniMax-H3",
           "source": "Hugging Face Models",
           "summary": "image-text-to-video: minimax-h3, diffusers, safetensors, text-to-video, image-to-video, image-text-to-video, video-to-video, text-to-audio-video",
@@ -4812,7 +4822,7 @@
           "nextAction": "建议：先放入素材池追踪 24-48 小时，观察是否有二次传播、竞品跟进或用户评论痛点。"
         },
         {
-          "title": "openai/gpt-oss-20b ❤5025",
+          "title": "openai/gpt-oss-20b ❤5026",
           "url": "https://huggingface.co/openai/gpt-oss-20b",
           "source": "Hugging Face Models",
           "summary": "text-generation: transformers, safetensors, gpt_oss, text-generation, vllm, conversational, arxiv:2508.10925, license:apache-2.0",
@@ -4842,7 +4852,7 @@
           "nextAction": "建议：先放入素材池追踪 24-48 小时，观察是否有二次传播、竞品跟进或用户评论痛点。"
         },
         {
-          "title": "Lightricks/LTX-2.5 ❤3594",
+          "title": "Lightricks/LTX-2.5 ❤3603",
           "url": "https://huggingface.co/Lightricks/LTX-2.5",
           "source": "Hugging Face Models",
           "summary": "image-to-video: diffusion-single-file, image-to-video, text-to-video, video-to-video, image-text-to-video, audio-to-video, text-to-audio, video-to-audio",
